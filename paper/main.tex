@@ -1,0 +1,93 @@
+% LaTeX Template for CPSC-298 Research Paper 
+% Based on ACM SIGCONF template
+
+% Force hyperref to use colored links (before loading acmart)
+\PassOptionsToPackage{colorlinks=true,linkcolor=black,citecolor=blue,urlcolor=blue}{hyperref}
+
+% Use screen option to enable colored links in ACM template
+\documentclass[sigconf,screen]{acmart}
+
+% Remove ACM copyright/conference info for student papers
+\settopmatter{printacmref=false}
+\renewcommand\footnotetextcopyrightpermission[1]{}
+\setcopyright{none}
+\acmConference[CPSC-298 Wikipedia Governance]{Wikipedia Governance Research}{2025}{Chapman University}
+\pagestyle{plain}
+
+% Packages you might need
+\usepackage{graphicx}
+\usepackage{url}       % For \url{} inline links
+\usepackage{hyperref}
+\usepackage{booktabs}  % For nice tables
+
+% Configure link colors for better visibility
+% Use AtBeginDocument to override ACM template settings
+\AtBeginDocument{
+    \hypersetup{
+        colorlinks=true,       % Color text instead of boxes
+        allcolors=.,          % Use current text color as default
+        linkcolor=black,       % Internal links (sections, figures) - keep black
+        citecolor=blue!50!black,   % Citations - navy blue
+        urlcolor=blue!50!black,    % URLs and \href links - navy blue
+        filecolor=blue!50!black    % File links - navy blue
+    }
+}
+
+% Title and author information
+\title{Your Paper Title Here}
+\subtitle{CPSC-298 Wikipedia Governance Research Project}
+
+\author{Your Name}
+\affiliation{%
+  \institution{Your University}
+  \city{Your City}
+  \country{USA}
+}
+\email{your.email@university.edu}
+
+% Abstract
+\begin{abstract}
+\input{sections/abstract}
+\end{abstract}
+
+% Keywords (relevant to your research)
+\keywords{Wikipedia, governance, [add your keywords here]}
+
+\begin{document}
+
+\maketitle
+
+% Main sections - each in a separate file
+\section{Introduction}
+\input{sections/introduction}
+
+\section{Related Work}
+\input{sections/related-work}
+
+\section{Methodology}
+\input{sections/methodology}
+
+\section{Results}
+\input{sections/results}
+
+\section{Discussion}
+\input{sections/discussion}
+
+\section{Conclusion}
+\input{sections/conclusion}
+
+% Acknowledgments (optional)
+\section*{Acknowledgments}
+We thank \dots for \ldots.
+
+% Bibliography
+\bibliographystyle{ACM-Reference-Format}
+\bibliography{references}
+
+% Appendix for AI Usage Documentation
+\appendix
+\section{AI Usage Documentation}
+\input{sections/appendix-AI-usage}
+
+\end{document}
+
