@@ -1,14 +1,21 @@
 ---
-
-type: literature\_review\_agent version: 1.0 author: Brooke England and Carolina Caraballo Vélez created: 2025-10-28 description: >- Customized AI agent workflow for automating the literature review process in the **Wikipedia, Bias, and Democracy** research project. This workflow is tailored to extract, summarize, and catalog academic works on bias detection, talk page dynamics, and democratic participation within Wikipedia. prerequisites:
-
-- PDF research papers stored in the `literature/` directory
-- Command-line access to `pdftotext` or equivalent Python parser (e.g., PyPDF2)
-- Basic knowledge of Markdown and BibTeX structure
-- Access to academic databases (Google Scholar, Semantic Scholar)
-- Seed papers: Hube (2017), Klemp & Forcehimes (2010), Wikimedia Research Reports
-
+type: literature_review_agent
+version: 1.0
+author: Brooke England and Carolina Caraballo Vélez
+created: 2025-10-28
+description: >-
+  Customized AI agent workflow for automating the literature review process in the
+  Wikipedia, Bias, and Democracy research project. This workflow is tailored to
+  extract, summarize, and catalog academic works on bias detection, talk page
+  dynamics, and democratic participation within Wikipedia.
+prerequisites:
+  - PDF research papers stored in the `literature/` directory
+  - Command-line access to `pdftotext` or equivalent Python parser (e.g., PyPDF2)
+  - Basic knowledge of Markdown and BibTeX structure
+  - Access to academic databases (Google Scholar, Semantic Scholar)
+  - Seed papers: Hube (2017), Klemp & Forcehimes (2010), Wikimedia Research Reports
 ---
+
 
 # Overview
 
