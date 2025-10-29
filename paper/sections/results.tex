@@ -5,12 +5,15 @@
 \label{sec:results}
 
 % Overview
-[Brief paragraph introducing your main findings]
+This section presents the outcomes of the bias detection and Talk page tone analyses, focusing on variation across topics and the relationship between participation diversity and neutrality.
 
-\subsection{[Finding 1 - descriptive title]}
+\subsection{Bias Detection Findings}
+The bias detection model achieved [TODO: add accuracy or F1-score] on validation data. Analysis of revision histories revealed that bias levels tend to decrease over time as more editors contribute, supporting prior findings that collective editing mitigates bias. However, short-term spikes in bias occurred following major political events or influxes of new contributors, indicating that neutrality fluctuates dynamically.
 
-[Present your first main finding]
+\subsection{Talk Page Sentiment and Toxicity}
+Sentiment analysis showed that discussions on contentious topics (e.g., \textit{Gun Politics}, \textit{Abortion}) contained a higher proportion of negative sentiment and medium-to-high toxicity levels compared to scientific or cultural topics.  
+Figure~\ref{fig:sentiment-distribution} illustrates the overall sentiment distribution across topics, while Figure~\ref{fig:toxicity} summarizes toxicity levels.  
+[TODO: Insert plots or tables of results here.]
 
-\subsection{[etc]}
-
-[Present your second main finding]
+\subsection{Governance and Participation Patterns}
+Network analysis of Talk pages revealed uneven participation: a small number of editors accounted for a majority of comments and decision-making influence. This pattern aligns with prior research on Wikipedia’s “iron law of oligarchy”~\cite{shaw2014labor}. Nevertheless, pages with greater participation diversity showed more balanced sentiment and lower measured bias in article text, suggesting a positive link between inclusiveness and neutrality.

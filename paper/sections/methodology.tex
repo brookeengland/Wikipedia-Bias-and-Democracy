@@ -4,33 +4,25 @@
 \label{sec:methodology}
 
 % Overview
-[Brief paragraph outlining your overall approach]
+This study employs a mixed-method approach combining computational text analysis, machine learning, and social network analysis to explore how Wikipedia’s collaborative governance structures influence neutrality. The methodology includes three primary components: bias detection in article text, sentiment and toxicity analysis of Talk pages, and the integration of these findings to assess relationships between governance diversity and content bias.
 
 \subsection{Data Collection}
 
-[Describe what data you collected, from where, covering what time period, etc.]
-
-% Example of how to cite a dataset or tool:
-% We collected data from the Wikipedia API \cite{wikipedia-api} covering...
+Data were collected from the Wikipedia API~\cite{wikipedia-api}, focusing on both article and Talk page content. For article analysis, we selected a diverse set of topics—ranging from politically neutral (e.g., \textit{Quantum Computing}) to highly contentious (e.g., \textit{Abortion}, \textit{Climate Change}, and \textit{Gun Politics in the United States}). Revision histories were gathered to track how content changed over time, including edits, editor identities (anonymized), timestamps, and source citations.  
+For Talk pages, we collected the full discussion threads, including author identifiers and timestamps, to capture patterns of debate and consensus-building.  
+[TODO: Add time period and sample size, e.g., “Data collected from January 2023 to September 2025, covering 10,000 Talk page comments.”]
 
 \subsection{Data Processing}
 
-[Describe how you cleaned, filtered, or transformed your data]
-
-% Example of code reference:
-% Our data processing pipeline is available in our GitHub repository.\footnote{\url{https://github.com/yourusername/yourrepo}}
+Raw text was cleaned and tokenized using standard NLP preprocessing methods: removal of markup, normalization, and language detection to exclude non-English content. Comments exceeding model length limits were segmented into smaller chunks for analysis. Metadata such as editor activity counts and comment timestamps were retained for participation analysis.  
+[TODO: Add preprocessing tools or libraries used, e.g., NLTK, spaCy, or Hugging Face.]
 
 \subsection{Analysis Methods}
 
-[Describe your analytical approach. What techniques did you use? Why?]
-
-% If you have equations, you can include them:
-% \begin{equation}
-% your\_formula = here
-% \end{equation}
+Bias detection models build upon the framework proposed by Hube~\cite{hube2017detecting}, using a combination of bias lexicons and supervised machine learning classifiers such as Random Forest and logistic regression. Each sentence is labeled as biased or neutral based on linguistic indicators and contextual embeddings.  
+Talk page discussions were analyzed using large language model (LLM) APIs to classify sentiment (Positive, Neutral, Negative) and toxicity (Low, Medium, High). These results were aggregated per page to produce topic-level tone distributions.  
+Additionally, participation networks were constructed to identify whether discussions were inclusive or dominated by a few users.  
+[TODO: Mention software or packages used for modeling and visualization.]
 
 \subsection{Ethical Considerations}
-Optional: Include this if your project involves human subjects data, user behavior analysis, or if your institution requires ethics discussion. For basic Wikipedia article analysis, this may not be necessary - just ensure proper citation in your Data Collection section.
-
-Example: All data consists of publicly available Wikipedia content accessed in compliance with \href{https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use}{Wikimedia's Terms of Use}.
-
+All data analyzed in this study were publicly available through the Wikipedia API and used in accordance with \href{https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use}{Wikimedia’s Terms of Use}. No private or user-identifiable information was collected or stored. The research complies with institutional standards for the analysis of publicly accessible data.
