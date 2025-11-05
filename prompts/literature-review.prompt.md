@@ -82,7 +82,6 @@ For each **new** PDF file in the `literature/` folder:
 # Constraints
 
 - Summaries must be concise (exactly 2 sentences each for Summary and Methodology)
-- Only process new articles (skip if already summarized)
 - Preserve and append to existing files
 - Maintain alphabetical and chronological consistency
 - Ensure valid Markdown rendering and proper link formatting
