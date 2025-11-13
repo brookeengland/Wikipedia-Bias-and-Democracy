@@ -4,18 +4,108 @@
 \label{sec:methodology}
 
 % Overview
-This study employs a mixed-method approach combining computational text analysis, machine learning, and social network analysis to explore how Wikipedia’s collaborative governance structures influence neutrality. The methodology includes three primary components: bias detection in article text, sentiment and toxicity analysis of Talk pages, and the integration of these findings to assess relationships between governance diversity and content bias.
+This study employs a mixed-method computational approach that bridges our 
+\textit{motivating research questions}---concerning bias, neutrality over time, and democratic 
+deliberation on Wikipedia---with the \textit{operationalized questions} that can be answered 
+using observable Wikipedia data. Because constructs such as ``bias,'' ``deliberation,'' and 
+``democratic participation'' cannot be measured directly, our methodology centers on identifying 
+appropriate \textit{proxies} and applying machine learning tools to compare these signals across 
+multiple Wikipedia Talk pages.
+
+All data-collection code, processing scripts, and instructions for reproducing every figure in 
+this paper are available in our GitHub repository:  
+\href{https://github.com/brookeengland/Wikipedia-Bias-and-Democracy}{github.com/brookeengland/Wikipedia-Bias-and-Democracy}.
+
+\subsection{Operationalizing Research Questions Through Proxies}
+
+Our motivating questions ask how Wikipedia handles bias, how discussions evolve, and whether 
+Talk pages reflect democratic deliberation. To answer these using measurable data, we identify 
+the following proxies:
+
+\begin{itemize}
+    \item \textbf{Bias in content}: sentiment cues, lexical framing, and toxicity patterns  
+    (following Hube's sentence-level bias indicators).
+    \item \textbf{Deliberative quality}: proportion of Neutral vs.\ Positive/Negative comments.
+    \item \textbf{Adversarial or harmful discourse}: toxicity levels (Low/Medium/High).
+    \item \textbf{Democratic participation}: number of unique contributors and balance of participation 
+    across editors.
+\end{itemize}
+
+These proxies are commonly used in prior research on Wikipedia governance and online 
+deliberation, and they provide computable indicators aligned with our research questions.
 
 \subsection{Data Collection}
-The data collected was strictly through Wikipedia talk pages. 
+
+Data were collected exclusively from Wikipedia Talk pages through the Wikipedia API using the 
+\texttt{action=query} and \texttt{prop=revisions} endpoints. For each topic, we retrieved the 
+full Talk page content and extracted individual comments using a timestamp-based regular 
+expression matching the standard Wikipedia signature format.
+
+Our updated analysis script supports the comparison of \textbf{multiple Talk pages at once}, 
+allowing cross-topic evaluation (e.g., \textit{United States}, \textit{Climate change}, 
+\textit{Elon Musk}).
 
 \subsection{Data Processing}
-Only the comments left within the discussion were extracted, and fed to both our models, ignoring irrelevant infromation such as name, date, etc. 
+
+Each Talk page undergoes the following preprocessing steps:
+
+\begin{enumerate}
+    \item \textbf{Comment segmentation}: isolate user comments based on signature patterns.
+    \item \textbf{Cleaning}: remove usernames, timestamps, templates, and markup.
+    \item \textbf{Chunking}: split long comments into sections that fit within model token limits.
+    \item \textbf{Normalization}: store sentiment and toxicity results per-topic to enable direct comparison.
+\end{enumerate}
+
+Only the textual content of comments was processed, as non-textual metadata does not contribute 
+to the deliberative or tonal characteristics of discussions.
 
 \subsection{Analysis Methods}
-Talk page discussions were analyzed using large language model (LLM) APIs to classify sentiment (Positive, Neutral, Negative) and toxicity (Low, Medium, High). These results were aggregated per page to produce topic-level tone distributions.  
-Additionally, participation networks were constructed to identify whether discussions were inclusive or dominated by a few users.  
-[TODO: Mention software or packages used for modeling and visualization.]
+
+We analyze each extracted comment using two transformer-based machine learning models:
+
+\begin{itemize}
+    \item \textbf{Sentiment Analysis}: Using the TabularisAI multilingual model, comments are categorized 
+    as Positive, Neutral, or Negative. Neutral sentiment is treated as a proxy for reasoned, 
+    deliberative communication.
+    \item \textbf{Toxicity Detection}: Using the Unitary Toxic-BERT model, each comment is assigned a 
+    toxicity level (Low, Medium, High).
+\end{itemize}
+
+For each Talk page, we aggregate:
+
+\begin{itemize}
+    \item sentiment label distributions,
+    \item sentiment confidence levels,
+    \item toxicity levels,
+    \item stacked sentiment percentages.
+\end{itemize}
+
+The updated script automatically generates comparative visualizations across all selected topics, 
+allowing us to operationalize questions such as:  
+(1) whether politically contentious topics show higher toxicity,  
+(2) whether some pages exhibit more democratic participation than others, and  
+(3) how the tone of discourse varies by subject matter.
+
+All machine learning analysis and visualization code is included in our repository and can be 
+run with a single Python script.
+
+\subsection{Reproducibility}
+
+To ensure reproducibility, the repository contains:
+
+\begin{itemize}
+    \item full API querying code,  
+    \item preprocessing and comment-extraction scripts,  
+    \item instructions for installing Python dependencies,  
+    \item the full multi-topic analysis script used to generate the results in this paper.
+\end{itemize}
+
+Not all implementation details appear in the PDF; however, the GitHub 
+repository provides everything needed to regenerate our results exactly.
 
 \subsection{Ethical Considerations}
-All data analyzed in this study were publicly available through the Wikipedia API and used in accordance with \href{https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use}{Wikimedia’s Terms of Use}. No private or user-identifiable information was collected or stored. The research complies with institutional standards for the analysis of publicly accessible data.
+
+All analyzed data were collected from publicly available Wikipedia Talk pages in accordance with 
+\href{https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use}{Wikimedia’s Terms of Use}. No private 
+or user-identifiable information was collected or stored. The study complies with institutional 
+guidelines for research using publicly accessible online data.
