@@ -1,0 +1,40 @@
+{
+  "Feminism": {
+    "sentiment_label_dist": {
+      "Neutral": 4
+    },
+    "sentiment_conf_dist": {
+      "High": 4
+    },
+    "toxicity_conf_dist": {
+      "Low": 4
+    },
+    "num_comments": 4
+  },
+  "Gentrification": {
+    "sentiment_label_dist": {
+      "Neutral": 2
+    },
+    "sentiment_conf_dist": {
+      "High": 1,
+      "Medium": 1
+    },
+    "toxicity_conf_dist": {
+      "Low": 2
+    },
+    "num_comments": 2
+  },
+  "Atheism": {
+    "sentiment_label_dist": {
+      "Neutral": 4
+    },
+    "sentiment_conf_dist": {
+      "High": 1,
+      "Medium": 3
+    },
+    "toxicity_conf_dist": {
+      "Low": 4
+    },
+    "num_comments": 4
+  }
+}

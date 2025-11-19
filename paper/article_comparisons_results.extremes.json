@@ -1,0 +1,27 @@
+{
+  "British National Party": {
+    "sentiment_label_dist": {
+      "Neutral": 3
+    },
+    "sentiment_conf_dist": {
+      "High": 3
+    },
+    "toxicity_conf_dist": {
+      "Low": 3
+    },
+    "num_comments": 3
+  },
+  "Antisemitism": {
+    "sentiment_label_dist": {
+      "Neutral": 2
+    },
+    "sentiment_conf_dist": {
+      "Medium": 1,
+      "High": 1
+    },
+    "toxicity_conf_dist": {
+      "Low": 2
+    },
+    "num_comments": 2
+  }
+}

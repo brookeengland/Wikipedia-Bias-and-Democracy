@@ -1,0 +1,45 @@
+{
+  "Donald Trump": {
+    "sentiment_label_dist": {
+      "Neutral": 13,
+      "Negative": 1
+    },
+    "sentiment_conf_dist": {
+      "High": 9,
+      "Medium": 4,
+      "Low": 1
+    },
+    "toxicity_conf_dist": {
+      "Low": 14
+    },
+    "num_comments": 14
+  },
+  "British National Party": {
+    "sentiment_label_dist": {
+      "Neutral": 3
+    },
+    "sentiment_conf_dist": {
+      "High": 3
+    },
+    "toxicity_conf_dist": {
+      "Low": 3
+    },
+    "num_comments": 3
+  },
+  "Capitalism": {
+    "sentiment_label_dist": {
+      "Neutral": 73,
+      "Negative": 3,
+      "Very Negative": 1
+    },
+    "sentiment_conf_dist": {
+      "Medium": 34,
+      "High": 39,
+      "Low": 4
+    },
+    "toxicity_conf_dist": {
+      "Low": 77
+    },
+    "num_comments": 77
+  }
+}

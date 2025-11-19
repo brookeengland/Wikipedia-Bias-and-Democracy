@@ -1,0 +1,96 @@
+{
+  "Donald Trump": {
+    "sentiment_label_dist": {
+      "Neutral": 13,
+      "Negative": 1
+    },
+    "sentiment_conf_dist": {
+      "High": 9,
+      "Medium": 4,
+      "Low": 1
+    },
+    "toxicity_conf_dist": {
+      "Low": 14
+    },
+    "num_comments": 14
+  },
+  "Antisemitism": {
+    "sentiment_label_dist": {
+      "Neutral": 2
+    },
+    "sentiment_conf_dist": {
+      "Medium": 1,
+      "High": 1
+    },
+    "toxicity_conf_dist": {
+      "Low": 2
+    },
+    "num_comments": 2
+  },
+  "Capitalism": {
+    "sentiment_label_dist": {
+      "Neutral": 73,
+      "Negative": 3,
+      "Very Negative": 1
+    },
+    "sentiment_conf_dist": {
+      "Medium": 34,
+      "High": 39,
+      "Low": 4
+    },
+    "toxicity_conf_dist": {
+      "Low": 77
+    },
+    "num_comments": 77
+  },
+  "Atheism": {
+    "sentiment_label_dist": {
+      "Neutral": 4
+    },
+    "sentiment_conf_dist": {
+      "High": 1,
+      "Medium": 3
+    },
+    "toxicity_conf_dist": {
+      "Low": 4
+    },
+    "num_comments": 4
+  },
+  "British National Party": {
+    "sentiment_label_dist": {
+      "Neutral": 3
+    },
+    "sentiment_conf_dist": {
+      "High": 3
+    },
+    "toxicity_conf_dist": {
+      "Low": 3
+    },
+    "num_comments": 3
+  },
+  "Feminism": {
+    "sentiment_label_dist": {
+      "Neutral": 4
+    },
+    "sentiment_conf_dist": {
+      "High": 4
+    },
+    "toxicity_conf_dist": {
+      "Low": 4
+    },
+    "num_comments": 4
+  },
+  "Gentrification": {
+    "sentiment_label_dist": {
+      "Neutral": 2
+    },
+    "sentiment_conf_dist": {
+      "High": 1,
+      "Medium": 1
+    },
+    "toxicity_conf_dist": {
+      "Low": 2
+    },
+    "num_comments": 2
+  }
+}
