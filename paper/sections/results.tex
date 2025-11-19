@@ -14,25 +14,25 @@ Sentiment analysis showed that discussions typically remained neutral, with only
 The automated talk-page analysis produced per-topic summaries (counts and label distributions); the full machine-readable results are available in \texttt{paper/article\_comparisons\_results.json} and per-subset JSON files in the same directory. Representative comparison figures were saved to \texttt{figures/article\_comparisons\_default.png} (and other subset-specific PNGs).
 
 Table~\ref{tab:talk-summary} summarizes the default subset (topics used in the main analysis). Percentages are relative to the number of comments extracted per talk page.
-
-\begin{table}[ht]
+\begin{table}[h]
 \centering
-\caption{Talk-page sentiment summary for the default topic set (counts and percentages).}
-\label{tab:talk-summary}
-\begin{tabular}{lrrrr}
+\begin{tabular}{lrrr}
 \hline
-Topic & \# comments & Neutral (\%) & Negative (\%) \\
+Topic & \# Comments & Neutral (\%) & Negative (\%) \\
 \hline
-Donald Trump & 14 & 92.9 & 7.1 
-Antisemitism & 2 & 100.0 & 0.0
-Capitalism & 77 & 94.8 & 5.2
-Atheism & 4 & 100.0 & 0.0 
-British National Party & 3 & 100.0 & 0.0 
-Feminism & 4 & 100.0 & 0.0 
-Gentrification & 2 & 100.0 & 0.0
+Donald Trump         & 14 & 92.9  & 7.1 \\
+Antisemitism         & 2  & 100.0 & 0.0 \\
+Capitalism           & 77 & 94.8  & 5.2 \\
+Atheism              & 4  & 100.0 & 0.0 \\
+British National Party & 3 & 100.0 & 0.0 \\
+Feminism             & 4  & 100.0 & 0.0 \\
+Gentrification       & 2  & 100.0 & 0.0 \\
 \hline
 \end{tabular}
+\caption{Summary of Comments by Topic}
+\label{tab:talk-summary}
 \end{table}
+
 
 These automated summaries show that the majority of extracted comments were labeled ``Neutral'' by the sentiment classifier, and toxicity scores were low for the sampled comments across topics. The saved figures (e.g., \texttt{figures/article\_comparisons\_default.png}) visualize the label distributions and confidence levels used to generate Table~\ref{tab:talk-summary}.
 
