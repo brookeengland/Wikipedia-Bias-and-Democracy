@@ -1,0 +1,77 @@
+[
+  {
+    "pdf": "literature/2010_From_Town-Halls_to_Wikis-Exploring_Wikipedia's_Implications_for_Deliberative_Democracy.pdf",
+    "timestamp": "2025-11-19T07:25:17.358011Z",
+    "structured": {
+      "title": "Journal of Public D eliberation",
+      "authors": "",
+      "year": "",
+      "summary": "[PLACEHOLDER] Short summary not generated because OPENAI_API_KEY is not set.",
+      "methodology": "[PLACEHOLDER]",
+      "results": "[PLACEHOLDER]",
+      "evaluation": "3/5 - Not evaluated automatically.",
+      "resources": []
+    },
+    "raw": "{\n  \"title\": \"Journal of Public D eliberation\",\n  \"authors\": \"\",\n  \"year\": \"\",\n  \"summary\": \"[PLACEHOLDER] Short summary not generated because OPENAI_API_KEY is not set.\",\n  \"methodology\": \"[PLACEHOLDER]\",\n  \"results\": \"[PLACEHOLDER]\",\n  \"evaluation\": \"3/5 - Not evaluated automatically.\",\n  \"resources\": []\n}"
+  },
+  {
+    "pdf": "literature/2017_Bias_in_Wikipedia.pdf",
+    "timestamp": "2025-11-19T07:25:17.432735Z",
+    "structured": {
+      "title": "Bias in Wikipedia",
+      "authors": "",
+      "year": "",
+      "summary": "[PLACEHOLDER] Short summary not generated because OPENAI_API_KEY is not set.",
+      "methodology": "[PLACEHOLDER]",
+      "results": "[PLACEHOLDER]",
+      "evaluation": "3/5 - Not evaluated automatically.",
+      "resources": []
+    },
+    "raw": "{\n  \"title\": \"Bias in Wikipedia\",\n  \"authors\": \"\",\n  \"year\": \"\",\n  \"summary\": \"[PLACEHOLDER] Short summary not generated because OPENAI_API_KEY is not set.\",\n  \"methodology\": \"[PLACEHOLDER]\",\n  \"results\": \"[PLACEHOLDER]\",\n  \"evaluation\": \"3/5 - Not evaluated automatically.\",\n  \"resources\": []\n}"
+  },
+  {
+    "pdf": "literature/2018_Detecting_Biased_Statements_in_Wikipedia.pdf",
+    "timestamp": "2025-11-19T07:25:17.524583Z",
+    "structured": {
+      "title": "Detecting Biased Statements in Wikipedia",
+      "authors": "",
+      "year": "",
+      "summary": "[PLACEHOLDER] Short summary not generated because OPENAI_API_KEY is not set.",
+      "methodology": "[PLACEHOLDER]",
+      "results": "[PLACEHOLDER]",
+      "evaluation": "3/5 - Not evaluated automatically.",
+      "resources": []
+    },
+    "raw": "{\n  \"title\": \"Detecting Biased Statements in Wikipedia\",\n  \"authors\": \"\",\n  \"year\": \"\",\n  \"summary\": \"[PLACEHOLDER] Short summary not generated because OPENAI_API_KEY is not set.\",\n  \"methodology\": \"[PLACEHOLDER]\",\n  \"results\": \"[PLACEHOLDER]\",\n  \"evaluation\": \"3/5 - Not evaluated automatically.\",\n  \"resources\": []\n}"
+  },
+  {
+    "pdf": "literature/2018_Gender_gap_through_time_and_space-A_journey_through_Wikipedia_biographies_via_the_Wikidata_Human_Gender_Indicator.pdf",
+    "timestamp": "2025-11-19T07:25:17.582827Z",
+    "structured": {
+      "title": "https://doi.org/10.1177/1461444818779080new media & society",
+      "authors": "",
+      "year": "",
+      "summary": "[PLACEHOLDER] Short summary not generated because OPENAI_API_KEY is not set.",
+      "methodology": "[PLACEHOLDER]",
+      "results": "[PLACEHOLDER]",
+      "evaluation": "3/5 - Not evaluated automatically.",
+      "resources": []
+    },
+    "raw": "{\n  \"title\": \"https://doi.org/10.1177/1461444818779080new media & society\",\n  \"authors\": \"\",\n  \"year\": \"\",\n  \"summary\": \"[PLACEHOLDER] Short summary not generated because OPENAI_API_KEY is not set.\",\n  \"methodology\": \"[PLACEHOLDER]\",\n  \"results\": \"[PLACEHOLDER]\",\n  \"evaluation\": \"3/5 - Not evaluated automatically.\",\n  \"resources\": []\n}"
+  },
+  {
+    "pdf": "literature/2020_Wikipedia_Is_Badly_Biased.pdf",
+    "timestamp": "2025-11-19T07:25:17.754099Z",
+    "structured": {
+      "title": "LARRYSANGER.ORG",
+      "authors": "",
+      "year": "",
+      "summary": "[PLACEHOLDER] Short summary not generated because OPENAI_API_KEY is not set.",
+      "methodology": "[PLACEHOLDER]",
+      "results": "[PLACEHOLDER]",
+      "evaluation": "3/5 - Not evaluated automatically.",
+      "resources": []
+    },
+    "raw": "{\n  \"title\": \"LARRYSANGER.ORG\",\n  \"authors\": \"\",\n  \"year\": \"\",\n  \"summary\": \"[PLACEHOLDER] Short summary not generated because OPENAI_API_KEY is not set.\",\n  \"methodology\": \"[PLACEHOLDER]\",\n  \"results\": \"[PLACEHOLDER]\",\n  \"evaluation\": \"3/5 - Not evaluated automatically.\",\n  \"resources\": []\n}"
+  }
+]

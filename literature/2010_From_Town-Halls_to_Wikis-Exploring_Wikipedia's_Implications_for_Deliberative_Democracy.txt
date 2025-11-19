@@ -1,0 +1,1058 @@
+Journal of Public D eliberation
+Volume 6 |Issue 2 Article 4
+9-20-2010
+From T own-H alls to W ikis: Explor ing W ikipedia's
+Implic ations for D eliberative D emocracy
+Nathaniel J . Klemp
+Pepperdine University, nathaniel.klemp@pe pperdine.edu
+Andrew T . Forcehimes
+Vanderbilt University, andrew.t.forcehime s@V anderbilt.Edu
+Follow thi s and a dditional w orks at:https://w ww.pub licdeliberation.net/jpd
+This Contributions is brought to you for f ree and ope n access by Public D eliberation. It has be en accepted for inclusion in J ournal of P ublic
+Deliberation b y an author ized editor of P ublic D eliberation.Recomme nded Citation
+Klemp, Nathaniel J. and F orcehime s, Andrew T. (2010) " From T own-H alls to W ikis: Exploring W ikipedia's Implications for
+Deliberative Democr acy,"Journal of P ublic Deliberation: Vol. 6 : I ss. 2 , A rticle 4.
+Available at:https://w ww.pub licdeliberation.net/jpd/v ol6/iss2/a rt4
+
+From T own-H alls to W ikis: Explor ing W ikipedia's Implic ations for
+Deliberative D emocracy
+Abstract
+This essay ex amine s the imp lications Wikipedia ho lds for the ories of de liberative de mocr acy. It argues
+that while simi lar in s ome r espects, the mode of in teraction w ithin W ikipedia represents a d istinct ive
+form of “ collaborative editing” that departs from m any of the qual ities traditionally as sociated with fa ce-
+to-face de liberation. Thi s onl ine mode of in teraction o vercome s many of the pr oblems that distort face-
+to-face de liberations. By mit igating pr oblems that arise in de liberative practice, such as “ group
+polarization” and “ hidde n pr ofiles,” the w iki mode l oft en realizes the e pistemic a nd pr ocedural
+aspirations of de liberative de mocr acy. The se virtues of the W ikipedia mode l should not , however, lead
+to the simp le conclusion th at it ou ght to replace traditional fa ce-to-face de liberation. Instead, thi s essay
+argues that the c ollaborative editing pr ocess found w ithin W ikipedia ou ght to be v iewed as a pr omi sing
+supplement to traditional de liberation. The se two mode s of c omm unica tion ou ght to be v iewed in
+Madisonian terms – as d istinct ive for ms of in teraction th at che ck a nd b alance the v ices of one a nothe r.
+When comb ined, the w iki mode l promot es the v irtues of inclusion a nd a ccuracy at large scale s, while
+the fa ce-to-face mode l exc els in c ond itions of local ism and pr omot es the v irtues of s olidarity and s ocial
+capital.
+Keywords
+Deliberative Democr acy, Group Processes, Infor mation T echno logy, Wikipedia
+Acknowledgements
+We would l ike to ackno wledge the t wo anon ymous r eviewers who offe red a n umbe r of he lpful in sights
+and c omme nts. We would al so like to th ank C aleb Clanton, J ane M ansbridge, and the e ditor of the
+Journal of P ublic D eliberation, T ed Be cker, for their he lpful comme nts.
+This contributions is available in J ournal of P ublic D eliberation:https://w ww.pub licdeliberation.net/jpd/v ol6/iss2/a rt4
+
+ 
+In The Politics , Aristotle makes a provocative claim about the nature of collective 
+intelligence.  He likens the combination of minds to a pot-luck dinner: “The many, of 
+whom none is individually an excellent man, nevertheless can when joined together be 
+better – not as individuals but all together – than those [who are best], just as dinners 
+contributed [by many] can be better than those equipped from a single expenditure” 
+(Aristotle 1984, 1281b1). When their virtues are combined, argues Aristotle, the many 
+can surpass the intelligence of even the most gifted few.   
+Throughout the last forty years, democratic theorists have pointed to deliberation 
+as a democratic tool for realizing Aristotle’s vision.  Like Aristotle’s pot-luck, 
+deliberation is ideally inclusive.  It ensures the legitimacy of political decision-making by 
+welcoming all citizens to voice their perspectives.  Also like Aristotle’s vision, 
+deliberation enhances collective understanding.  By enabling all citizens to contribute, it 
+combines the unique perspectives and understandings of individuals to reach more 
+informed collective decisions.    
+In theory, the Internet’s power to unite individuals throughout the world would 
+seem to produce the optimal conditions for realizing Aristotle’s ideal of collective 
+intelligence.  Online communities allow a seemingly limitless number of individuals to 
+interact and to combine their perspectives.  Yet on many accounts, the Internet often 
+appears to diminish rather than enhance the possibility of achieving this ideal.  Cass 
+Sunstein (2001), for instance, praises some aspects of interaction within the Internet but 
+worries that it “is serving, for many, as a breeding ground for extremism, precisely 
+because like-minded people are deliberating with one another, and often without hearing 
+contrary views” (71).  
+1Klemp and Forcehimes: From Town-Halls to Wikis
+
+2  Since its creation in 2001, Wikipedia, the free Internet Encyclopedia, has 
+managed to overcome many of these worries.  It is driven by the egalitarian idea that 
+anyone with access to the Internet ought to be able to create, edit, and revise the site’s 
+content.  Unlike newspapers, magazines, and TV broadcasts, in which content is created 
+and edited by a handful of professionals, Wikipedia thrives on a more decentralized 
+model.  Within the virtual space of Wikipedia, information is assembled and edited by 
+thousands of people across the world – people who need not have any formal training or 
+degrees and who have never even met.  Wikipedia also appears to produce positive 
+epistemic outcomes.  It harnesses the vast power of the many to create an accurate and 
+expansive open-source encyclopedia. 
+In this essay, we examine the implications Wikipedia holds for deliberative 
+democracy.  We argue that the mode of interaction within Wikipedia overcomes many of 
+the problems that distort face-to-face deliberations and, at least partially, realizes the 
+epistemic and procedural aspirations of deliberative democracy.   This does not, however, 
+mean that the Wikipedia model ought to be viewed as a replacement for traditional face-
+to-face deliberation.  Instead, we argue that the mode of interaction within Wikipedia 
+may supplement face-to-face deliberation.  When combined, these two forms of 
+interaction check one another: the Wikipedia model promotes inclusion and accuracy 
+when used at a large scale, while the face-to-face model promotes solidarity and social 
+capital and excels in conditions of localism. 
+The essay divides into five primary parts.  The first outlines the evolution of 
+Wikipedia.   The second outlines two of the primary aspirations of deliberative 
+democracy: the procedural aspiration toward inclusion and the epistemic aspiration 
+2Journal of Public Deliberation, Vol. 6 [2010], Iss. 2, Art. 4
+https://www.publicdeliberation.net/jpd/vol6/iss2/art4
+
+3 toward accuracy.  The third section examines the differences between ideal forms of face-
+to-face deliberation and the form of collaborative editing found in Wikipedia.   The forth 
+section juxtaposes the collaborative editing process of Wikipedia against the actual 
+practice, as opposed to the theoretical ideal, of deliberation.   We argue that in turning 
+from theory to practice two primary problems with deliberation emerge: the problems of 
+group polarization and hidden profiles.   We will then argue that the vast size and relative 
+anonymity of Wikipedia enable this mode of interaction to at least partially overcome 
+these problems.  In the final section, we outline the limitations of the Wikipedia model 
+and argue for a synthesis of such online and traditional face-to-face deliberations.  We 
+conclude by sketching out a few concrete ways in which Wikipedia might supplement 
+face-to-face deliberation.  
+ 
+I. The Wikipedia Experiment 
+ In early 2001, Jim Wales and Larry Sanger, founders of Wikipedia, had a wild 
+idea: why not create an Internet encyclopedia that is written, edited, and revised by 
+ordinary users?   Since then, the growth of this user-created encyclopedia has been 
+astronomical: within one month, Wikipedia had more than 600 articles; within a year, it 
+had 20,000 (Schiff 2006); and now Wikipedia has nearly 2.9 million articles in its 
+English Language Edition alone, and has a total of more than 13 million articles in 260 
+languages (Wikipedia 2009a). 
+The technology driving this experiment is a simple software tool called a “wiki,” 
+which enables multiple users to write and edit content.  The word “wiki” comes from the 
+word “wikiwiki,” which is Hawaiian for “fast” or “speedy” (Sunstein 2006, 149). The 
+3Klemp and Forcehimes: From Town-Halls to Wikis
+
+4 pioneer of the wiki concept was Ward Cunningham, who developed the first wiki to 
+enable large numbers of users to edit and add new content.  Cunningham was perhaps the 
+first to see the democratic possibilities of this new technology: “Wiki is inherently 
+democratic,” he declared, “every user has exactly the same capabilities as any other user” 
+(Sunstein 2006, 148). 
+Using this tool, Wikipedia has created a platform on which “people of all ages 
+and cultural and social backgrounds can write Wikipedia articles.  Most of the articles 
+can be edited by anyone with access to the Internet, simply by clicking the edit this page 
+link” (Wikipedia 2009a). For self-described “Wikipedians,” this process of collaborative 
+content creation is understood through the metaphor of a “socially Darwinian 
+evolutionary process” (Wikipedia 2006a).  Like the process of evolution, there are two 
+primary mechanisms driving Wikipedia’s rapid expansion: variation and selective 
+retention.  With upwards of nine million registered contributors, variations in content 
+arise almost continuously (Wikipedia 2009a).  Yet as in the evolutionary model, not all of 
+these variations are retained.  New additions and modifications are only retained if 
+deemed useful by fellow users. The use of “revision control” expedites the process of 
+correcting mistakes and vandalism by enabling users to “revert” an article to past 
+versions, and track the edits of other users (Wikipedia 2009b). This means that 
+outrageous and inaccurate variations on content are quickly replaced until new and more 
+accurate ones arise. 
+The open-source structure of Wikipedia also means that it costs next to nothing to 
+maintain.  Despite its millions of entries, the site is run by the Wikimedia Foundation, a 
+nonprofit organization consisting of less than twenty employees, and operating on an 
+4Journal of Public Deliberation, Vol. 6 [2010], Iss. 2, Art. 4
+https://www.publicdeliberation.net/jpd/vol6/iss2/art4
+
+5 annual budget of only $3,500,000 (Wikipedia 2008).  The reason for such low overhead 
+costs:  the producers and editors of content are the users themselves and, as a result, they 
+need not be hired, paid, or managed.   
+ 
+II. Deliberative Democracy 
+ While Wikipedia has transformed the world of encyclopedias, this essay seeks to 
+understand the form of interaction within it as a potential supplement to traditional forms 
+of democratic deliberation.1  To do this, we will examine whether the mode of interaction 
+within Wikipedia realizes two of the traditional ideals of deliberation:  (1) the procedural 
+aspiration toward inclusion and (2) the epistemic aspiration toward accuracy or truth-
+tracking.  Of course, there are many other ideals and aspirations that emerge in the 
+literature on deliberation.  Yet we argue that the ends of inclusion and accuracy play a 
+prominent role both in traditional and more recent theories of deliberation. 
+Traditional accounts of deliberative democracy argue that when citizens disagree 
+about moral and political issues, as they inevitably will, such disagreements ought to be 
+dealt with through the exchange of reasons.  Gutmann and Thompson (2004) call this the 
+“reason-giving requirement.”  It is the idea that “in a democracy, leaders should…give 
+reasons for their decisions, and respond to the reasons that citizens give in return” (3).   
+As we will see, such “reason-giving requirements” are justified on the grounds that they 
+promote procedural fairness and truth-tracking in political decision making.2  
+                                                 
+1 We recognize Wikipedia’s claim that, “[it] is not a democracy” (Wikipedia 2009f). Yet we are not 
+examining whether it is a democracy per se , but rather if it can facilitate deliberative practices within a 
+democracy.   
+2 For a closer examination of the distinctions between justifications based on fairness and truth-tracking see 
+Estlund 2008, 127. 
+5Klemp and Forcehimes: From Town-Halls to Wikis
+
+6 The proceduralist justification argues that decisions are legitimate if they are the 
+result of a fair procedure where all parties can participate in contestation and debate.  Put 
+differently, legitimacy arises when deliberations take into account the views of all 
+citizens, not just those of the numerical majority (Rawls 1996, 213; cf. Cohen 1997, 72; 
+Estlund 1997, 177). As Bernard Manin explains,  
+Because it [the decision] comes at the close of a deliberative process in which everyone 
+was able to take part, choose among several solutions, and remain free to approve or 
+refuse the conclusions developed from the argument, the result carries legitimacy.   The 
+decision results from a process in which the minority point of view was also taken into 
+consideration (Manin 1987, 359). 
+ 
+On such proceduralist justifications, deliberation confers legitimacy by ensuring that even 
+the losers in the political process have their views “taken into consideration.” In short, the 
+proceduralist position holds that political legitimacy hinges on fairness and inclusion – on 
+granting all citizens the capacity to voice their views.    
+The epistemic position, on the other hand, holds that political legitimacy arises 
+from the propensity of deliberations to produce accurate decisions.  Cheryl Misak 
+captures the essence of this view by declaring, “Deliberative democracy in political 
+philosophy is the right view, because deliberative democracy in epistemology is the right 
+view” (Misak 2004, 15).  Deliberation is necessary on this view because in the absence of 
+robust debate and critical scrutiny, citizens and lawmakers cannot know whether their 
+decisions are indeed based on accurate beliefs (Misak 2008, 95-96 cf. Talisse 2007, 389). 
+Thus the epistemic view presumes that when making political decisions, deliberation is 
+the best (if not the only) way to ensure that the decision is “truth-tracking” (Nino 1996, 
+107 cf. Estlund 2008, 8; Talisse 2004, 27).  So on the epistemic view, the exchange of 
+reasons, arguments, and evidence that occurs in deliberation confers legitimacy on the 
+political process not primarily because it is fair or inclusive but because it tends to 
+6Journal of Public Deliberation, Vol. 6 [2010], Iss. 2, Art. 4
+https://www.publicdeliberation.net/jpd/vol6/iss2/art4
+
+7 produce accurate decisions. We should note that the proceduralist position and the 
+epistemic position are by no means incompatible.  Many theorists who value inclusion 
+also value accuracy.  Likewise, many who hold the epistemic position also value the 
+proceduralist emphasis on inclusion. 
+A detailed discussion of these two ideals is beyond the scope of this essay.   Our 
+goal in outlining these two positions has been to show that both ideals offer justifications 
+for deliberation as a tool for establishing legitimate political authority.  We leave open 
+the question of which of these two accounts offers the most compelling justification for 
+deliberation.  Instead, we use these two justificatory accounts as an analytic baseline for 
+examining Wikipedia’s potential as a supplement to deliberation.3 We use the 
+proceduralist position to examine whether Wikipedia embodies a procedurally fair 
+process of information exchange.   We use the epistemic position to examine whether 
+Wikipedia enhances collective understanding.  
+ 
+III. Is Wikipedia Deliberative? 
+ Before juxtaposing Wikipedia against these two deliberative ideals, we begin by 
+asking: are members of Wikipedia engaged in deliberation or some other form of 
+interaction?  At the outset, the form of interaction within Wikipedia appears to depart 
+from traditional deliberation.  The information exchanges within Wikipedia result in a 
+collaboratively authored encyclopedia.  Ideal deliberation, by contrast, aims primarily at 
+facilitating democratic decision-making and legitimating the use of coercive state power.   
+                                                 
+3 We should emphasize that this distinction is a generalization  and should not be taken as anything beyond 
+an analytic tool. For we fully recognize that most contemporary deliberative democrats, such as Habermas 
+(1990; 1996) and Estlund (2008), offer hybrid version of deliberative democracy that equally emphasize 
+both the procedural and epistemic value of deliberation.   
+7Klemp and Forcehimes: From Town-Halls to Wikis
+
+8 In spite of these general differences, many existing accounts argue that Wikipedia is, at 
+least in part, an exercise in deliberation.   Sunstein, for example, claims that though wikis 
+are primarily “mechanisms for aggregating information” (Sunstein 2006, 148), Wikipedia 
+“is in part a deliberative forum, with reason-giving by those who disagree and with 
+deliberative ‘places’ to accompany disagreement” (152).   
+We agree with Sunstein’s characterization of Wikipedia as a partially deliberative 
+environment.  However, we argue that the primary form of interaction is not deliberation 
+but rather what we call collaborative editing.  To be sure, this process shares two key 
+qualities of the deliberative ideal.  First, it is guided by a similar orientation toward the 
+common interest.  Second, it appeals to the norm of consensus as its ideal decision rule.  
+Yet Wikipedia departs from two other primary features of ideal deliberation.  First, it 
+represents a shift from face-to-face to more anonymous forms of online interaction.  
+Second, it substitutes an egalitarian form of collaborative editing for the deliberative 
+practice of reason-giving as its primary mechanism of information exchange.   
+ 
+ 
+Distinguishing Deliberation From Collaborative Editing 
+ 
+ Ideal Deliberation Wikipedia 
+Aspiration Common Interest Common Interest 
+Decision Rule Consensus Consensus 
+Level of Intimacy Face-to-Face Relative Anonymity   
+Interactive Mechanism Reason Giving Collaborative Editing * 
+ 
+ 
+Figure 1:  Adapted from Jane Mansbridge’s (1983) account of unitary and adversary 
+democracy, this figure illuminates the primary features of ideal deliberation and 
+Wikipedia’s collaborative editing.  We borrow three of her criterion (assumption, 
+decision rule, and level of intimacy) and add one of our own (interactive mechanism).  
+8Journal of Public Deliberation, Vol. 6 [2010], Iss. 2, Art. 4
+https://www.publicdeliberation.net/jpd/vol6/iss2/art4
+
+9 These four categories serve as an analytic baseline for distinguishing ideal deliberation 
+from the process of collaborative editing found in Wikipedia.   *Collaborative editing is 
+the primary form of interaction in Wikipedia, but, as Sunstein (2006, 152) notes, forums 
+of deliberative reason-giving also exist. 
+ 
+ Consider first the similarities between ideal deliberation and Wikipedia’s 
+collaborative editing.   Like most deliberative ideals (Cohen 2002; Habermas 1997; 
+Mansbridge 1983; Pettit 2000; Gutmann & Thompson 1996), contributors to Wikipedia 
+aspire toward the common interest.  This aspiration is perhaps most evident in the 
+foundational principle guiding the editing process: “neutral point of view” (NPOV).   
+This principle encourages participants to avoid biased or self-serving contributions and to 
+instead present information from a neutral point of view.  According to this principle: 
+“where there have been conflicting views, these should be presented fairly” (Wikipedia, 
+2006).4  Implicit within this call for neutrality is an aspiration toward creating content 
+that serves the common interests of all readers.  Entries on controversial political issues, 
+for instance, should not privilege the interests of Democrats or Republicans.  Rather, they 
+should present information neutrally, in ways that represent all relevant perspectives. 
+In comparing ideals of deliberation with Wikipedia, perhaps the most striking 
+similarity arises from their shared emphasis on consensus.  Like the deliberative ideals of 
+Cohen (2002) and Habermas (1979), decisions concerning the rules, policies, and content 
+of Wikipedia arise out of a process of “reasonable-consensus building.”  In determining 
+policies and mediating disputes, the Wikipedia community aspires toward solutions that 
+appeal to all users.  Once a consensus is reached, these moments of unanimous agreement 
+are then translated into basic guidelines and principles.  “If we find that a particular 
+                                                 
+4 Two other guidelines supplement the NPOV rule.  The first is “verifiability,” which requires that other 
+users be able to check the sources used to create new content.  The second is “no original research,” which 
+mandates that entries cannot contain unpublished arguments, ideas, data, or theories.  In addition to these 
+principles, Wikipedia encourages users to adhere to the norms of good faith and civility and to refrain from 
+personal attacks on other editors (Wikipedia 2006a).  
+9Klemp and Forcehimes: From Town-Halls to Wikis
+
+10 consensus happens often,” Wikipedia explains, “we write it down as a guideline, to save 
+people from having to discuss the same principles over and over” (Wikipedia 2006b). 
+This commitment to consensus arises out of a concern for the potentially 
+tyrannical effects of majoritarian decision rules.  As their rules page explains, “At times, 
+a group of editors may be able to, through persistence, numbers, and organization, 
+overwhelm well-meaning editors and generate what appears to be support for a version of 
+the article that is actually inaccurate, libelous, or not neutral, e.g. giving undue weight to 
+a specific point of view.  This is not a consensus” (Wikipedia 2006b). The worry here is 
+that articles based upon the perspective of the numerical majority, as opposed to the 
+perspective of the whole or of a supermajority, will not result in unbiased or neutral 
+material.5   
+Although Wikipedia shares this emphasis on the common interest and consensus, 
+it departs from two key aspects of the deliberative tradition.  First, the online interactions 
+in Wikipedia represent a shift from face-to-face to partially anonymous interaction.  In 
+Mansbridge’s deliberative account of “unitary democracy” and in many other ideal 
+accounts of deliberation, face-to-face relations play a vital role.  Such relations cultivate 
+civic friendship and shared understanding.  As Mansbridge puts it, “The face-to-face 
+interaction of friends helps to create and to maintain their common interests…They come 
+to respect and to know one another by piecing together, over time, informal cues derived 
+from their intimate contact” (Mansbridge 1983, 10).  While Mansbridge is explicit in her 
+                                                 
+5 It should be noted, however, that Wikipedia’s rejection of pure majoritarianism is only partial.  While 
+consensus is the ideal, Wikipedia users admit that unanimity may not always be possible.  In certain 
+circumstances, they allow for super-majoritarian procedures.  When consensus proves impossible, for 
+instance, decisions must made on the basis of a super-majority, consisting of anywhere from 60% to 80% 
+of participants (Wikipedia 2006).  
+ 
+10Journal of Public Deliberation, Vol. 6 [2010], Iss. 2, Art. 4
+https://www.publicdeliberation.net/jpd/vol6/iss2/art4
+
+11 emphasis on face-to-face relations, most other deliberative theories rest on an implicit 
+presumption of face-to-face contact.   Public political forums, informal conversations, 
+and town hall meetings – all of these traditional deliberative settings enable citizens to 
+face one another when exchanging reasons and information. 
+Wikipedia departs from such traditional deliberative settings.  Its users go by 
+names like “Scray,” “Ferrylodge,” “AxelBoldt,” “Almondwine,” or “MamaGeek.”  
+Although users may become familiar with the online personas of others, they are likely 
+never to meet face-to-face, to see one another, or to ever know the real names of fellow 
+users.   As a result, this online space creates an interactive world based not on face-to-
+face intimacy but on relative  anonymity.  The anonymity of Wikipedia users is relative 
+for two reasons.  First, editors’ anonymity is not impenetrable, as one Wikipedia page 
+cautions “your mask can fall off” (Wikipedia 2009g).  For example, the “WikiScanner”—
+a tool used to trace anonymous edits to organizations or individuals IP addresses—was 
+used to identify the, now famous edits made by Brian Chase (whose story we will return 
+to later) (Wikipedia 2009h). However, even tracing an IP address is becoming 
+increasingly difficult.  Programs now enable “cloud browsing,” allowing individuals to 
+connect to a remote computer and browse with an altered IP address. Also, browser plug-
+ins like “FoxyProxy” or “TOR” mask IP addresses making it impossible to track users.  
+Thus, it is possible to be almost completely anonymous on Wikipedia but it is largely 
+contingent upon the precautions taken by the user.  
+Second, while most frequent users establish a consistent pseudonym, which 
+enables other users to identify their contributions, important elements of their identity in 
+real space (race, attractiveness, age, and public speaking ability) remain hidden.  
+11Klemp and Forcehimes: From Town-Halls to Wikis
+
+12 Wikipedia encourages editing with a pseudonym, because “logging in under a 
+pseudonym lets you build trust and respect through a history of good edits. It is also 
+easier to communicate and collaborate with an editor if we know who you are (at least, 
+who you are on Wikipedia)” (Wikipedia 2010a). Yet, even when using a consistent 
+pseudonym, a degree of anonymity still exists.   After all, the user has far more control 
+over how his or her identity appears in the online space of Wikipedia than in real space.  
+As Smith and Kollock (1999) observe, in such virtual communities, inhabitants are 
+“diffuse, free from the body’s unifying anchor.  One can have, some claim, as many 
+electronic personae as one has time and energy to create” (29).  By enabling users to 
+construct their own identity, the traditional markers of status that distort deliberation in 
+real space (see section four) become largely irrelevant.  Even if an individual were to 
+attempt to gain status through revealing his or her race, gender, or educational 
+credentials, such attempts are likely to be viewed by other users with suspicion.   The fact 
+that each user could invent a misleading or exaggerated online identity means that such 
+markers of status in real-space lose much of their power.  
+While the normal markers of status in real-space are largely irrelevant, those with 
+a track record of positive contributions to the encyclopedia can establish status and 
+prestige within the Wikipedia community.  For example, the process of becoming a 
+Wikipedia administrator requires making enough “good” edits (typically a few thousand) 
+to gain 70-85 percent approval when the user makes a Request for Adminship (Dee 
+2007).  These hierarchies within Wikipedia create inequalities in status.  Yet unlike the 
+diminishing effects of status in real space, we have found no evidence to suggest that 
+such status differences undermine the inclusiveness or epistemic accuracy of the 
+12Journal of Public Deliberation, Vol. 6 [2010], Iss. 2, Art. 4
+https://www.publicdeliberation.net/jpd/vol6/iss2/art4
+
+13 collaborative editing process.   In fact, it seems as though this online status system 
+enhances the accuracy of contributions.  The status of Wikipedians, after all, is 
+determined not by arbitrary factors like age, race, or gender but by the accuracy of the 
+editor’s contributions.  So while status inequalities exist, these differences would appear 
+to enhance the epistemic accuracy of the editing process. 
+The second key difference between traditional deliberation and Wikipedia arises 
+from the mechanism of interaction.  While deliberation occurs through reason-giving, 
+interaction within Wikipedia occurs through collaborative editing.   As we have seen, for 
+Gutmann and Thompson (2004) the “reason-giving requirement,” which stipulates “the 
+need to justify decisions made by citizens and their representatives” (3), is fundamental to 
+deliberative democracy.   
+In contrast to reason-giving, interactions within Wikipedia are based on a process 
+of collaborative editing.  Online editors work collaboratively to add relevant information, 
+eliminate bias, and fine-tune spelling and grammar.  This is not a conversational 
+exchange where parties offer arguments and reasons about a future decision.  Rather, 
+each party takes this decision making process into his or her own hands, changing the 
+content of Wikipedia’s entries with minimal consultation or deliberation.  This points to a 
+crucial distinction.  In ideal deliberation, collective outcomes arise through a prior 
+process of reason-giving that, at least ideally, results in a decision made through 
+consensus.  In Wikipedia, collective outcomes arise from a kind of “editorial 
+equilibrium” – a process where individuals implement revisions at their own discretion 
+but where only those changes that enhance the accuracy or readability of the entry will 
+survive the scrutiny of fellow editors.  
+13Klemp and Forcehimes: From Town-Halls to Wikis
+
+14 While collaborative editing plays a primary role in Wikipedia, it should be noted 
+that more deliberative forms of reason-giving also exist.  In creating entries, editors use a 
+separate page (the “Talk Page”) as well as I.R.C. channels to discuss possible changes in 
+content.  Consider, for instance, the longstanding debate among editors on the “abortion” 
+page concerning whether to display images of aborted fetuses.  On one side, editors argue 
+that pictures ought to be displayed.  In one such user’s words, “Why aren’t there any 
+pictures of the aborted babies here? It really seems that Wikipedia is whitewashing this 
+issue. In the very least we should acknowledge what abortion is and what it does to an 
+unborn child” (Wikipedia 2006c). Critics reply that displaying such photos violates 
+Wikipedia’s foundational principle of No Point of View and is inconsistent with the 
+structure of many of Wikipedia’s other entries.  As one user insisted: “[P]uting a picture 
+in is unneeded. If you are saying that there should be a picture to give a better 
+understanding of the topic then surely the mastectomy page should have a picture of a 
+removed breast or the area where the breast used to be to increase the understanding of 
+the procedure and what it entails” (Wikipedia 2006c).   Such reason-giving often yields 
+creative solutions.  In response to this exchange, another user offered a possible 
+compromise: “I’m not sure if this has ever been suggested, but we could put a link at the 
+end in the external link section to some pictures” (Wikipedia 2006c). 
+ That Wikipedia users also appeal to reason-giving does not mean that this is a 
+fully deliberative process.  As we have seen the primary form of interaction lies not on 
+the “Talk” pages or I.R.C. channels but in the process of content creation itself.  This 
+editorial process is less an exchange of reasons and more an attempt to achieve an 
+14Journal of Public Deliberation, Vol. 6 [2010], Iss. 2, Art. 4
+https://www.publicdeliberation.net/jpd/vol6/iss2/art4
+
+15 editorial equilibrium through the unstructured and often chaotic edits and revisions of a 
+wide array of users.  
+ 
+IV. Juxtaposing Practical Deliberation and Collaborative Editing  
+The previous section sought to outline the structural differences between the 
+Wikipedia model and ideal forms of face-to-face deliberation.  While important, this 
+essay seeks to extend this comparison beyond the realm of ideal theory to the actual 
+practice of collaborative editing and deliberation.  In evaluating the potential uses of the 
+Wikipedia model as a supplement to deliberation, it is not enough to compare this model 
+to theoretical ideals of deliberation.  We must also compare it against deliberative 
+practice.  When, after all, we turn from deliberation in theory to deliberation in practice, a 
+number of problems emerge that stand in the way of realizing the procedural and 
+epistemic aspirations of deliberative democracy.  As a result of status inequalities, group 
+polarization, and other empirical problems, the actual practice of deliberation often 
+diminishes rather than enhances these values (Mendelberg 2002). 
+In what follows, we outline two of the primary shortcomings of face-to-face 
+deliberation:  the problem of group polarization and hidden profiles.   We also examine 
+the ways in which the collaborative editing process of Wikipedia overcomes these 
+empirical shortcomings.   Again, our aim is not to call for an end to face-to-face 
+deliberation but to explore the potential of alternative spaces such as Wikipedia to 
+supplement and improve existing practices of deliberation.  
+ 
+1. The Problem of Group Polarization 
+15Klemp and Forcehimes: From Town-Halls to Wikis
+
+16 This first problem arises in the deliberations of homogenous groups, where 
+members share the same values, beliefs, or preferences.  In such contexts, deliberation 
+tends to erode the procedural and epistemic quality of collective understanding.  Consider 
+what occurred when sixty citizens in Colorado were broken up into ten deliberative 
+groups (Sunstein 2006).  In this experiment, participants were divided into “red state 
+groups,” consisting of conservatives from Colorado Springs, and “blue state groups,” 
+consisting of liberals from Boulder.  Members of these groups were asked to state their 
+opinions on questions about same-sex marriage, affirmative action, and global warming 
+before and after fifteen minutes of deliberation within their groups.   
+What were the effects of deliberation?  As Sunstein (2006) explains, “In almost 
+every group, members ended up with more extreme positions after they spoke with one 
+another.  Discussion made civil unions more popular among liberals; discussion made 
+civil unions less popular among conservatives” (Sunstein 2006, 45-46).  This study along 
+with countless others shows that deliberation within like-minded groups tends to have 
+polarizing effects (Brown 2000; Sunstein 2000; Sunstein 2001; Sunstein 2002).    
+These findings indicate that the homogenous deliberations undermine both the 
+procedural and epistemic aspirations of deliberative democracy.  On the one hand, 
+conditions of group polarization undermine the procedural aspiration toward an inclusive 
+public dialogue.  Rather than cultivating the values of fairness, tolerance, and equality, 
+such homogenous groups often become “breeding grounds for unjustified extremism, 
+even fanaticism” (Sunstein 2002, 178).  This results in two interrelated procedural 
+worries.  First, group polarization diminishes inclusion by cultivating attitudes of 
+extremism and intolerance – attitudes that promote monolithic group identities and the 
+16Journal of Public Deliberation, Vol. 6 [2010], Iss. 2, Art. 4
+https://www.publicdeliberation.net/jpd/vol6/iss2/art4
+
+17 exclusion of those with diverse perspectives.  Second, such conditions cultivate a 
+fragmented public deliberative forum.  Rather than creating an inclusive conversation 
+between citizens from all backgrounds, deliberation tends to occur within insulated 
+enclave spaces that erode the diversity and openness of the broader public political 
+forum.  
+In addition to causing procedural problems, group polarization also threatens the 
+epistemic aspirations of deliberative democracy.  Along with pushing groups toward 
+more extreme positions, such deliberations also tend to ossify, rather than correct, 
+epistemic errors and biases. Overly homogeneous deliberations tend to move group 
+members toward ever more extreme positions in the direction of their pre-deliberative 
+beliefs and preferences (Sunstein 2002, 178).  This means that in cases where like-
+minded individuals hold false beliefs prior to deliberation, the polarizing effects of 
+homogeneous group deliberation will push them further toward problematic 
+informational outcomes (Sunstein 2006, 96).  
+While the real-world deliberations of activists, community members, and 
+religious groups often descend into group polarization, the vast size of the collaborative 
+community within Wikipedia enables it to evade this worry.  Unlike most face-to-face 
+deliberations, which become unwieldy when groups grow beyond ten or twenty people, 
+Wikipedia faces no limitations on the size of its interactive body.  On popular entries, 
+hundreds or even thousands of people regularly participate in the creation of new content.   
+This vast size of the editorial community has two primary effects.  First, 
+Wikipedia’s size creates a more inclusive conversation than smaller homogenous groups 
+of like-minded citizens.  It cultivates interactions that welcome all individuals and 
+17Klemp and Forcehimes: From Town-Halls to Wikis
+
+18 mitigate the kinds of extremism and social fragmentation that emerge from homogenous 
+deliberation.   One way to explain these moderating effects of Wikipedia’s more inclusive 
+conversation is through Madison’s reflections on size in the Federalist Papers .  As he 
+reminds us, collective decision-making within small groups and communities often 
+generates dangerous results.  In Federalist 10, for instance, he declares : 
+The smaller the society, the fewer the distinct parties and interests, the more frequently 
+will a majority be found of the same party; and the smaller the number of individuals 
+composing a majority, and the smaller the compass within which they are placed, the 
+more easily will they concert and execute their plans of oppression (Madison 1987, 127). 
+ 
+Madison thus argues that in creating government institutions, small homogenous groups 
+ought to be avoided.  Instead, he argues that we ought to “extend the sphere” of the 
+republic.  As the size of the republic increases, after all, the number of parties and 
+interests also increases, which in turn makes it far more difficult for a single faction to 
+attain majority power and invade the rights of other citizens (Madison 1987, 127-128).
+ Wikipedia stands as a testament to Madison’s reflections on size.  While 
+partiality, extremism, and conflict exist within its process of collaborative editing, the 
+sheer size of the Wikipedia community has important moderating effects.  With millions 
+of registered contributors from all parts of the world and all possible political, cultural, 
+and religious persuasions, the size and diversity of Wikipedia serves as a structural check 
+against extreme and inaccurate points of view. 6   
+In the context of Wikipedia, fanatics, vandals, and self-promoters have almost no 
+chance of mobilizing a majority faction devoted to the promotion of their point of view.  
+Their efforts to distort Wikipedia’s content are often neutralized by the vast array of well-
+                                                 
+6 This structural check is by no means perfect. Wikipedia’s users clearly favor certain demographics. 
+According to a self-report by Wikipedia, “80 percent [of editors] are male, more than 65 percent single, 
+more than 85 percent without children, around 70 percent under the age of 30” (Cohen 2009).   
+18Journal of Public Deliberation, Vol. 6 [2010], Iss. 2, Art. 4
+https://www.publicdeliberation.net/jpd/vol6/iss2/art4
+
+19 intentioned editors, who quickly “revert” their destructive contributions.   As founder Jim 
+Wales puts it, “one of the things that we do is that we have a very strong neutrality policy 
+that actually works very well. It turns out most people are quite reasonable, even people 
+who come from interest groups. They really understand that you can’t put in a one-sided 
+rant because it won’t survive very long in Wikipedia” (NPR interview).7 
+On one reading of this quote, Wales seems to argue that the primary barrier to 
+intolerance and extremism within Wikipedia is the cultural norm of neutrality, not the 
+size of the deliberative community.   He asserts that it is the guiding principle of “neutral 
+point of view” (NPOV) that promotes an ethos of reasonableness even among those with 
+a clear ideological bias.  We agree that neutrality plays an important role, but we argue 
+that this norm alone cannot ensure moderation.   Although most Wikipedians adhere to 
+this norm, there have always been a deviant few who undermine the encyclopedia’s 
+neutrality by posting inappropriate or biased content.   It is in checking these deviant few 
+that size plays an essential role.   In fact, Wales references the moderating effects of size 
+when he says, “you can’t put in a one-sided rant because it won’t survive very long in 
+Wikipedia.” The speed with which such “one-sided rants” disappear requires more than 
+the mere norm of neutrality.  It also requires the thousands of Wikipedia users who comb 
+through its pages eliminating errors and bias. 
+In addition to these procedural benefits, the vast size of online interactions within 
+Wikipedia appears to overcome many of the epistemic problems that emerge in 
+homogeneous groups.  By increasing the size and diversity of participants, Wikipedia’s 
+process of collaborative editing increases the amount of information incorporated into the 
+                                                 
+7 In addition, self-serving edits often backfires, as it did with the Church of Scientology when the 
+Wikipedia Arbitration Committee publicly reprimanded and banned the IP addresses of the Church 
+(MacMillan 2009). 
+19Klemp and Forcehimes: From Town-Halls to Wikis
+
+20 process of content creation.   The vast size of Wikipedia coupled with the diversity of its 
+contributors introduces new facts, theories, and opinions.  Rather than pushing groups 
+toward factually incorrect outcomes, it mitigates error and bias, channeling interactions 
+toward more accurate outcomes. 
+While critics argue that Wikipedia is riddled with errors and misinformation, a 
+recent side-by-side comparison of the encyclopedia against Encyclopedia Britannica 
+shows that many of its entries have a similar number of errors.  To test Wikipedia’s 
+accuracy, Nature  sent 42 science entries from both encyclopedias out for peer review by 
+experts in the field.  Reviewers were told to count the number of errors in each entry and 
+were not told which entries corresponded to which encyclopedia.    
+The results showed that the two encyclopedias had virtually the same level of 
+accuracy.  Out of the 42 entries, the reviewers found eight serious errors: four in 
+Wikipedia and four in the Encyclopedia Britannica.  The reviewers also pointed out 162 
+minor errors in Wikipedia and 123 minor errors in the Encyclopedia Britannica (Nature 
+2005).  While more research is needed to determine whether Wikipedia’s accuracy 
+extends beyond science articles, these preliminary results point toward an unexpected 
+outcome.  They show that despite the chaotic nature of content creation on Wikipedia, 
+where content emerges from a vast array of ordinary users rather than elites, its accuracy 
+is, at the very least, in the same league as that of Britannica.  The point here is not to say 
+that Wikipedia is superior to or more accurate than Britannica.  It is to say that these 
+preliminary findings appear to support the more modest conclusion that Wikipedia’s 
+collaborative editing process evades the epistemic dangers of group polarization – that it 
+results in collaborative outcomes that appear to enhance collective understanding.   
+20Journal of Public Deliberation, Vol. 6 [2010], Iss. 2, Art. 4
+https://www.publicdeliberation.net/jpd/vol6/iss2/art4
+
+21 To be sure, there are still serious concerns about the quality of information on 
+Wikipedia.  The case most often cited to illuminate Wikipedia’s epistemic deficiencies 
+occurred in the spring of 2005.   As a prank, Brian Chase fabricated an entry on John 
+Seigenthaler, a well-known journalist who served briefly as an assistant to Robert 
+Kennedy.  Chase’s Wikipedia entry falsely claimed that Seigenthaler lived in Russia for 
+much of his life and that he was thought to have played an important role in the 
+assassinations of both Robert and John F. Kennedy.  Despite the obvious falsity of these 
+claims, Chase’s entry went unnoticed and uncorrected for 132 days (Economist 2006). 
+Incidents such as these illustrate that Wikipedia’s radical egalitarianism is both its 
+greatest strength and its greatest weakness – that this deliberative platform is susceptible 
+to vandalism and malicious attempts to post false information.  Despite such occasional 
+acts of vandalism, Wikipedia has come remarkably close to realizing the epistemic 
+aspirations of deliberative democrats.  In Aristotle’s language, Wikipedia has tapped into 
+the intelligence of the many to produce results that outperform the excellent few.  
+ 
+2. The Problem of Hidden Profiles 
+The potential for distortion in the real-world practice of deliberation is not unique 
+to homogeneous groups.  Even within heterogeneous groups, a number of factors can 
+erode both the epistemic and procedural quality of deliberation.  One problem arises from 
+what are called “hidden profiles” (Hastie 1993; Stasser & Titus 1985; Stasser & Titus 
+2003).  Hidden profiles occur when accurate information exists within the group, but 
+cannot be obtained.   
+21Klemp and Forcehimes: From Town-Halls to Wikis
+
+Such hidden profiles result 
+open information exchange .  One problem is that, as Tocqueville might remind us, 
+majorities can have tyrannical effects on the minority within the group, silencing ideas 
+and information that fall outside the scope of majority opinion
+silencing effect occurs because those in the minority have significant incentives to stay 
+quiet : opposing the majority places their reputation in jeopardy; supporting it does not.
+Sunstein, following the “Asch Conformity Experiment” 
+point empirically. Asch’s experiment 
+nine college students were asked to view a 
+lines in Exhibit 2 that matched the line in Exhibit 1 (Asch 1
+ 
+ 
+ 
+ 
+All the participant s in the group except one were “confederates
+announce their answers out loud (Sunstein 2003, 18). In the control group
+was no pressure to conform, the non
+(Sunstein 2003, 18). However, when the confederates
+incorrect answers, the non- confederate
+22 Such hidden profiles result from several primary empirical barriers to free an
+.  One problem is that, as Tocqueville might remind us, 
+majorities can have tyrannical effects on the minority within the group, silencing ideas 
+and information that fall outside the scope of majority opinion  (Tocqueville 2004)
+silencing effect occurs because those in the minority have significant incentives to stay 
+: opposing the majority places their reputation in jeopardy; supporting it does not.
+the “Asch Conformity Experiment” (1955), confirms Tocqueville’s 
+Asch’s experiment was set up in the following way: g roups of seven to 
+nine college students were asked to view a series of charts (see below) and to 
+in Exhibit 2 that matched the line in Exhibit 1 (Asch 1 955, 32).       
+s in the group except one were “confederates ” and all were told to 
+announce their answers out loud (Sunstein 2003, 18). In the control group s, where there 
+the non-confederates erred less t han 1% of the time 
+However, when the confederates  began unanimously giving
+confederate s followed suit.  In fact, 36.8% of the nonto free an d 
+.  One problem is that, as Tocqueville might remind us, 
+majorities can have tyrannical effects on the minority within the group, silencing ideas 
+(Tocqueville 2004) .  This 
+silencing effect occurs because those in the minority have significant incentives to stay 
+: opposing the majority places their reputation in jeopardy; supporting it does not.  
+Tocqueville’s 
+roups of seven to 
+to identify the 
+ 
+were told to 
+, where there 
+han 1% of the time 
+began unanimously giving  
+the non -
+22Journal of Public Deliberation, Vol. 6 [2010], Iss. 2, Art. 4
+https://www.publicdeliberation.net/jpd/vol6/iss2/art4
+
+23 confederates gave the same incorrect answer as the confederates, and in the set of 12 
+questions, 70% answered at least one question wrong (Sunstein 2003, 19). In addition to 
+answering incorrectly more frequently, the non-confederates experienced measureable 
+levels of anxiety and a general reluctance to answer. Therefore, agreeing with 
+Tocqueville, Sunstein states that social pressure causes individuals to “follow others and 
+silence themselves, without disclosing knowledge from which others would benefit” 
+(Sunstein 2003, 6). 
+Information may also be concealed because low status members, who may have 
+relevant information, often defer to high status members (Mansbridge 1983; Sanders 
+1997; Sunstein 2006).  When confronted with the assertions of confident high status 
+members, in other words, minorities, women, and others with lower social status will 
+often accept, rather than actively challenge, these assertions.  In Jane Mansbridge’s study 
+of town meetings in Selby, for instance, she finds that “face-to-face democracy” 
+generates both feelings of friendship and solidarity and also conditions that silence those 
+with lower social status: 
+In this town meeting, as in many face-to-face democracies, the fears of making a fool of 
+oneself, of losing control, of criticism, and of making enemies all contribute to the 
+tension that arises in the settlement of disputes…To preserve the atmosphere of 
+agreement, the more powerful participants are likely to withhold information and to exert 
+subtle pressures that often work ultimately to the disadvantage of the least powerful 
+(Mansbridge 1983, 71). 
+ 
+In the actual practice of deliberation, these social pressures construct a powerful set of 
+implicit social barriers that diminish the pool of available information and arguments. 
+The emergence of such hidden profiles in the practice of deliberation challenges 
+both the procedural aspiration toward inclusion and the epistemic aspiration toward 
+accuracy.  From the procedural perspective, such group dynamics prevent a fully 
+23Klemp and Forcehimes: From Town-Halls to Wikis
+
+24 inclusive process of information exchange.  When status inequalities, majority tyranny, 
+and forms of hidden profiles silence some participants, such deliberations fall short of full 
+inclusion.  Rather than including all participants, they privilege the perspectives of the 
+majority or those with higher social status.  From the epistemic perspective, such hidden 
+profiles create problematic informational conditions that erode the accuracy of 
+conversation.  By silencing those who hold potentially valuable information, errors in 
+collective understanding may often go unchecked.  
+ As with the problem of group polarization, Wikipedia’s unique structure offers an 
+important corrective to the problem of hidden profiles.  It has managed to evade much of 
+the social pressure that arises from status inequalities and majority tyranny by creating a 
+relatively anonymous structure of social interaction.  In traditional deliberation, social 
+norms and reputational pressures distort both the inclusiveness and accuracy of the 
+process.  As Sunstein (2006) explains, “group members impose sanctions on perceived 
+deviants, and would-be deviants anticipate the sanctions in advance” (78).  Knowing that 
+they might be ridiculed or ostracized, group members who sit outside the majority will 
+often remain silent – a result that diminishes the epistemic benefits of deliberation.    
+ In contrast to face-to-face deliberations, the sense of relative anonymity within 
+virtual communities such as Wikipedia’s enables parties to evade many of these social 
+pressures.  For those who lack rhetorical eloquence, dread public speaking, or are 
+intimidated by high status individuals, Wikipedia’s virtual community offers a much 
+safer space for collaborative content creation.  As mentioned earlier, the ability of users 
+to manufacture and customize their online identity causes traditional markers of status to 
+become less relevant.  In the world of Wikipedia, it does not matter whether you have an 
+24Journal of Public Deliberation, Vol. 6 [2010], Iss. 2, Art. 4
+https://www.publicdeliberation.net/jpd/vol6/iss2/art4
+
+25 advanced degree, whether you can think quickly on your feet, whether you are attractive, 
+or whether you express your ideas with eloquence: what matters is whether you can 
+contribute accurate information. As Wikipedia’s founder Jim Wales declares: “To me, the 
+key thing is getting it right.  I don’t care if they’re a high-school kid or a Harvard 
+professor” (Schriff 2006). 
+This is not to say that social pressures are absent entirely from Wikipedia.  Like 
+any community, Wikipedia does impose some sanctions on deviants who stray from its 
+fundamental norms of civility and No Point of View.  For instance, vandals and those 
+caught engaging in “revert wars” will have their editing privileges suspended for the day 
+or, in more extreme cases, be banned from the community for life.  The power of such 
+social pressures within online space, however, pales in comparison to the kinds of social 
+pressures that exist in real-world deliberative contexts.   Like almost any form of 
+interaction in cyberspace, the relative anonymity of Wikipedia decreases the constraining 
+effects of social norms.  It creates a space within which participants can express novel 
+facts and opinions with greater ease, which in turn appears to mitigate the powerful social 
+pressures that distort face-to-face deliberation. 
+This structure of relative anonymity enables Wikipedia to, at least partially, 
+promote both procedural fairness and positive epistemic outcomes.  It promotes 
+procedural inclusion in two primary ways.  First, this process of editing is, at least in 
+theory, open to all.  Anyone with access to the Internet, either at home, at work, or in 
+their community, may engage in collaborative editing. As one of the first sentences on 
+Wikipedia’s “About” page states, “ Anyone  with internet access can make changes to 
+Wikipedia articles…Visitors do not need specialized qualifications to contribute” 
+25Klemp and Forcehimes: From Town-Halls to Wikis
+
+26 (Wikipedia 2009a, emphasis added). Second, while its an open question empirically 
+whether actual interactions within Wikipedia are more or less civil than ideal 
+deliberation, Wikipedia has attempted to establish clear guidelines for discussion on “talk 
+pages and IRC channels,” which attempt to promote civility and politeness.  For instance, 
+Wikipedians are told to “assume good faith” and are instructed not to “bite the 
+newcomers” (Wikipedia 2009d).  As a result of clear guidelines, and a commitment to 
+civility as one of its core principles, Wikipedia promotes the procedural value of civility 
+and respect (Wikipedia 2009e).  
+ Wikipedia’s process of collaborative editing also appears to promote positive 
+epistemic outcomes.  First, it facilitates the aggregation of vast amounts of new 
+information.  The online encyclopedia now has entries on everything from esoteric 
+historical figures to fringe celebrities and little known concepts.  As a result, the scope of 
+Wikipedia’s entries has expanded far beyond that of rival encyclopedias.  Second, 
+deliberations within Wikipedia correct and update information at an unprecedented 
+speed.  While traditional encyclopedias update entries every five to ten years, 
+Wikipedia’s most popular entries will have been revised to reflect the most current 
+information within hours of major political and social events.  Finally, as we saw in the 
+previous section, the structure of Wikipedia facilitates a process of information exchange 
+with impressive levels of accuracy.  None of this is to say that Wikipedia offers 
+exhaustive coverage of potential public knowledge.  While it excels at creating entries on 
+popular topics with national scope, Wikipedia does not offer comprehensive information 
+on local level affairs.  So while its scope has surpassed that of traditional print 
+26Journal of Public Deliberation, Vol. 6 [2010], Iss. 2, Art. 4
+https://www.publicdeliberation.net/jpd/vol6/iss2/art4
+
+27 encyclopedias, it is worth remembering that its reach is far from extending into all areas 
+of human knowledge.  
+ 
+V.  Wikipedia’s Implications for Deliberative Democracy 
+ As we have seen, Wikipedia overcomes many of the epistemic and procedural 
+problems that arise in the actual practice of face-to-face deliberation.  On the one hand, it 
+helps overcome the problem of group polarization.  By enabling a vast number of users to 
+contribute information, Wikipedia cultivates a richly diverse contestatory space – one that 
+counters group polarization.  On the other, Wikipedia helps to overcome many of the 
+worries that arise from hidden profiles.  The relative anonymity of its process allows low 
+status members to contribute without fear of humiliation, while also mitigating the 
+problem of majority tyranny.  These procedural and epistemic virtues of Wikipedia lead 
+us to conclude that when combined with face-to-face deliberation, this new mode of 
+content creation could work as a powerful supplement to traditional deliberation.  
+ As we have stressed throughout, however, the procedural and epistemic virtues of 
+Wikipedia should not lead to the simple conclusion that this model ought to replace face-
+to-face deliberation, nor should it lead us to think of Wikipedia in utopian terms.  While 
+the Wikipedia model overcomes group polarization and hidden profiles in certain 
+contexts, it suffers from other shortcomings that can only be overcome through the 
+continued practice of deliberation in face-to-face contexts.   
+The first problem – the problem of size – is that the procedural and epistemic 
+virtues of Wikipedia tend to decline along with the size of the interactive community.  At 
+the national or international scale, with thousands of participants, this model excels. 
+27Klemp and Forcehimes: From Town-Halls to Wikis
+
+28 When used at local levels or when few users participate, however, its virtues decline. The 
+reason is that as participation declines and few users read or contribute to a wiki, 
+prospective contributors will tend to discount the value of adding new content.  This 
+problem arose when the Department of Defense used a wiki-like software tool to promote 
+interdepartmental collaboration.  This system ultimately failed due to low participation 
+(Thompson 2006).   Contributions were so sparse that users lacked robust incentives to 
+participate.  
+More important, as size decreases, the Madisonian checks that arise in the vast 
+community of Wikipedia tend to decline.  This arose when the Los Angeles Times 
+attempted to use wikis to allow ordinary readers to participate in the collaborative 
+creation of editorials about the War in Iraq.  These “wikitorials” produced dismal 
+outcomes: after just a few days, vandals had posted pornography and destroyed the 
+content of these editorials (Economist 2006).  In the absence of an expansive network of 
+users, such acts of vandalism and extremism could not be moderated.  The upshot of 
+these examples is that the Wikipedia model only works when thousands of users 
+collaborate.  In small-scale decision-making contexts, face-to-face deliberation becomes 
+essential.  
+   The second problem – the problem of normative content – is that while the 
+Wikipedia model enables users to explore descriptive questions, it may not improve 
+discussions over normative questions.  Wikipedia aims to offer descriptive knowledge.  
+Its thousands of editors seek to find the “right” answers to questions of fact.  And while 
+political discussion benefits from sound assessments of facts, it also has a more 
+normative dimension: it is concerned with discussions of political conditions as they 
+28Journal of Public Deliberation, Vol. 6 [2010], Iss. 2, Art. 4
+https://www.publicdeliberation.net/jpd/vol6/iss2/art4
+
+29 should be, not simply as they are .  This marks another area where face-to-face 
+deliberation supplements the Wikipedia model.  When deliberations turn from descriptive 
+to more normative questions involving basic values and principles, face-to-face 
+deliberation excels.  Deliberation, after all, enables participants not merely to exchange 
+information but to transform their existing beliefs and values – to arrive at a more 
+reflective set of beliefs through discussions with others.  As Manin (1987) puts it, “The 
+process of deliberation, the confrontation of various points of view, helps [citizens] to 
+clarify information and to sharpen their own preferences.  They may even modify their 
+initial objectives, should that prove necessary” (351).  
+ The final problem – the problem of social capital – is that the relative anonymity 
+of the online interactions within Wikipedia fails to cultivate social capital and solidarity 
+in real-world political contexts.  Because Wikipedia thrives on a vast community of users 
+scattered throughout the nation, or even the world, it fails to cultivate bonds between 
+individuals at local levels.  In face-to-face deliberation, by contrast, interactions tend to 
+bolster what Putnam calls “social capital” – to cultivate the virtues of “mutual support, 
+cooperation, trust, [and] institutional effectiveness” (Putnam 2000, 22).  Unlike online 
+interactions, the lack of anonymity in face-to-face deliberation enables homogeneous 
+groups engaged in “bonding” to cultivate in-group “reciprocity” and “solidarity”, while 
+also enabling heterogeneous groups engaged in “bridging” to cultivate tolerance and 
+“broader identities” (Putnam 2000, 22-23).  As we have seen, such homogenous and 
+heterogeneous group deliberations raise many problems.  Yet the many virtues that arise 
+from cultivating social capital illustrate why the Wikipedia model ought to be thought of 
+29Klemp and Forcehimes: From Town-Halls to Wikis
+
+30 as a supplement – rather than a replacement – to the traditional face-to-face model of 
+deliberation. 
+  Given the virtues and vices of both face-to-face deliberation and the online model 
+of Wikipedia, we argue that these two modes of interaction should be used to 
+complement one another.   While face-to-face deliberation cultivates social capital and 
+excels in smaller contexts, the Wikipedia model may counter the problems of group 
+polarization and hidden profiles in larger contexts.  Similarly, while the Wikipedia model 
+results in promising procedural and epistemic outcomes in large-scale contexts, the face-
+to-face model of deliberation counters the problems of size, normative content, and social 
+capital that emerge in online spaces.   
+This mixed assessment leads us to conclude that we ought to think of these two 
+modes of interaction in Madisonian terms.  Just as Madison (1987) relies on the 
+“ambition” of each branch of government to counter and check the “ambitions” of others, 
+we argue that the procedural and epistemic virtues of both the Wikipedia and the face-to-
+face model ought to be used to check the shortcomings of the other.  
+How might the Wikipedia model be used to complement traditional forms of 
+deliberation?  It is beyond the scope of this essay to offer a comprehensive account of 
+how this model might be applied to political decision-making.   We have, however, 
+outlined a few possible ways in which this emerging form of online interaction might 
+supplement traditional deliberation: 
+1. State Referenda:   In states that allow citizen initiatives, it is often difficult to 
+find unbiased and informative descriptions of referenda.  Using public wikis, 
+citizens could create their own informational resource on the pros and cons of 
+30Journal of Public Deliberation, Vol. 6 [2010], Iss. 2, Art. 4
+https://www.publicdeliberation.net/jpd/vol6/iss2/art4
+
+31 various measures.  Unlike more elite driven assessments, these assessments would 
+ideally reflect a wider set of concerns and would lack the partisan bias of 
+television, radio, and print advertisements. 
+2. Evaluating Representative Performance:  Wikis might also enable citizens 
+to evaluate representative performance.  They would provide citizens with a 
+forum for going beyond the partisan exchange of sound bites – to construct a 
+more neutral resource that examines the policies, legislative accomplishments, 
+and character of representatives.   
+3. Improving Government Bureaucracy:  Wikis might also provide the state 
+with a tool for facilitating deliberations between and within its agencies.  The 
+CIA, for instance, recently adopted the wiki principle to streamline intelligence 
+gathering.  Following September 11th, intelligence agencies concluded that the 
+CIA, NSA, and FBI each held valuable informational clues, which if pieced 
+together might have prevented the attacks.  To encourage the exchange of 
+information between agencies, the CIA has created a wiki system called 
+Intellipedia that allows a vast number of agents to combine intelligence.  The 
+hope is that such wikis will do to intelligence gathering what Wikipedia has done 
+for encyclopedias – that they will enable users throughout the world to share 
+information (Thompson 2006). 
+ 
+Ideally, such potential applications of the Wikipedia model would enhance 
+existing forms of face-to-face deliberation.  The information gathered through such 
+political wikis would help to inform citizens and better equip them to enter into 
+31Klemp and Forcehimes: From Town-Halls to Wikis
+
+32 deliberations over political decisions.   Likewise, the face-to-face deliberations of citizens 
+would help cultivate social capital, tolerance, and enable citizens to go beyond simply 
+amassing information – to also explore the normative side of political questions and 
+potentially even revise their existing preferences.  So if the Wikipedia model ends up 
+impacting the practice of politics, it ought to be viewed as an informational resource 
+capable of enhancing, but not replacing, democratic deliberation. 
+ 
+ 
+ 
+ 
+32Journal of Public Deliberation, Vol. 6 [2010], Iss. 2, Art. 4
+https://www.publicdeliberation.net/jpd/vol6/iss2/art4
+
+33  
+ 
+Works Cited: 
+ 
+Aristotle. 1984. The Politics . Translated by C. Lord. Chicago: University of Chicago 
+Press. 
+ 
+Asch, Solomon.  1955.  “Opinions and Social Pressure.” Scientific America 193: 31-35.  
+ 
+Brown, Rupert. 2000. Group Processes . Oxford: Blackwell. 
+ 
+Cohen, Joshua. 1997 "Procedure and Substance in Deliberative Democracy." In 
+Deliberative democracy: Essays on Reason and Politics, edited by  Bohman and 
+Rehg. Cambridge: MIT. 
+ 
+Cohen, Joshua. 2002. “Deliberation and Democratic Legitimacy.” In Democracy , edited 
+by Estlund. New York: Blackwell Publishers. 
+ 
+Cohen, Noam.  2009. “Wikipedia Looks Hard at Its Culture.” The New York Times 
+August 30. 
+ 
+Economist. 2006. “The Wiki Principle.” The Economist  April 22. 
+ 
+Estlund, David M.  2008. Democratic Authority: A Philosophical Framework , N.J.: 
+Princeton University Press. 
+ 
+Estlund, David M. 1997 "Beyond Fairness and Deliberation." In Deliberative democracy: 
+Essays on Reason and Politics, edited by  Bohman and Rehg. Cambridge: MIT. 
+ 
+Habermas, Jurgen. 1979. “What is Universal Pragmatics?” In Communication and the 
+Evolution of Society . Boston: Beacon Press. 
+ 
+Habermas, Jurgen. 1997.  “Popular Sovereignty as Procedure.”  In Deliberative 
+Democracy , edited by Bohman and Rehg.  Cambridge: MIT. 
+ 
+Hastie, Daniel Gigone & Reid. 1993. “The Common Knowledge Effect: Information 
+Sharing and Group Judgment.” Journal of Personality and Social Psychology  65: 
+959-974. 
+ 
+MacMillan, Douglas.  2009. “Wikipedia referees Scientology debate.” Business Week 
+May 29 
+ 
+Madison, James. 1987. The Federalist Papers . New York: Penguin Books. 
+ 
+Manin, Bernard. 1987. “On Legitimacy and Political Deliberation.” Political Theory  
+15.3:  338-368. 
+33Klemp and Forcehimes: From Town-Halls to Wikis
+
+34  
+Mansbridge, Jane. 1983. Beyond Adversary Democracy . Chicago: University of Chicago 
+Press. 
+ 
+Mendelberg, Tali. 2002. “The Deliberative Citizen: Theory and Evidence.” In Political 
+Decision Making, Deliberation and Participation. New York: Elsvier Science 
+Ltd. 
+ 
+Misak, Cheryl.  2004.  “Making Disagreement Matter.” Journal of Speculative 
+Philosophy 18.1: 9-22.  
+ 
+Misak, Cheryl.  2008.  “A Culture of Justification: The Pragmatist’s Epistemic Argument 
+for Democracy.” Episteme 5.1: 94-105. 
+ 
+Nature. 2005. “Internet Encyclopedias go Head to Head.” Nature  438 (December 15): 
+900-901. 
+ 
+Dee,  Jonathan.  2007. “All the News That’s Fit to Print Out.” The New York Times July 
+1. 
+ 
+Nino, Carlos. 1996. The Constitution of Deliberative Democracy . New Haven: Yale. 
+ 
+NPR: Talk of the Nation, “Analysis: Wikipedia, Open Source, and the Future of the 
+Web,” transcript, November 2, 2005. 
+ 
+Pettit, Philip. 2000. “Democracy, Electoral and Contestatory.” In Designing Democratic 
+Institutions , edited by I. S. a. S. Macedo. New York: NYU Press. 
+ 
+Putnam, Robert. 2000. Bowling Alone. New York: Simon and Schuster.  
+ 
+Rawls, John.  1996.  Political Liberalism. Paperback edition. New York: Columbia 
+University Press.  
+ 
+Sanders, Lynn M. 1997. “Against Deliberation.” Political Theory  25.3: 347-376. 
+ 
+Schiff, Stacy. 2006. “Know it All.” The New Yorker  July 31. 
+ 
+Smith, Marc and Peter Kollock. 1999.  1999. Communities in Cyberspace . New York, 
+Routledge. 
+ 
+Sunstein, Cass. 2000. Deliberative Trouble? Why Groups go to Extremes. The Yale Law 
+Journal  110.1: 71-119. 
+ 
+Sunstein, Cass. 2001. Republic.com . Princeton, NJ: Princeton University Press. 
+ 
+34Journal of Public Deliberation, Vol. 6 [2010], Iss. 2, Art. 4
+https://www.publicdeliberation.net/jpd/vol6/iss2/art4
+
+35 Sunstein, Cass.  2002.  “The Law of Group Polarization.”  Journal of Political 
+Philosophy 10.2: 175-195.  
+ 
+Sunstein, Cass.  2003.  Why Societies Need Dissent . Cambridge, MA: Harvard University 
+Press. 
+ 
+Sunstein, Cass. 2006. Infotopia. New York: Oxford University Press. 
+ 
+Talisse, Robert.  2004.  “Towards a Peircean Politics of Inquiry.” Transactions of the C. 
+S. Peirce Society  40.1: 21-38 
+ 
+Talisse, Robert.  2007. “From Pragmatism to Perfectionism: Cheryl Misak's Epistemic 
+Deliberativism.” Philosophy & Social Criticism 33.3: 387-406. 
+ 
+Thompson, Dennis and Amy Gutmann.  2004. Why Deliberative Democracy? Princeton, 
+NJ: Princeton University Press. 
+ 
+Thompson, Clive. 2006. “Rewiring the Spy.” The New York Times Magazine  December 
+3. 
+ 
+Titus, William and Garold Stasser. 1985. “Pooling of Unshared Information in Group 
+Discussion.” Journal of Personality and Social Psychology  48:1467-1478. 
+ 
+Titus, William and Garold Stasser. 2003. “Hidden Profiles: A Brief History.” 
+Psychological Inquiry  14: 304-313. 
+ 
+Tocqueville, Alexis De. 2004. Democracy and America. Translated by A. Goldhammer. 
+New York: The Library of America. 
+ 
+Wikipedia. 2006a. About Page. Wikipedia. 
+ 
+Wikipedia. 2006b. Wikipedia Policies.  Wikipedia. 
+ 
+Wikipedia. 2006c. Talk Page: Abortion.  Wikipedia. 
+ 
+Wikipedia. 2008. Annual Report. Retrieved June 14, 2009, from 
+http://wikimediafoundation.org/wiki/Annual_Report  
+ 
+Wikipedia. 2009a. About Page. Wikipedia. 
+ 
+Wikipedia. 2009b. Revision Control. Wikipedia. 
+ 
+Wikipedia 2009d. Wikipedia Behavioral Guidelines. Wikipedia.  
+ 
+Wikipedia 2009e. Five pillars. Wikipedia.  
+ 
+35Klemp and Forcehimes: From Town-Halls to Wikis
+
+36 Wikipedia. 2009f. What Wikipedia is not. Wikipedia. 
+ 
+Wikipedia. 2009g. Wikipedia is in the real world. Wikipedia. 
+ 
+Wikipedia. 2009h. WikiScanner. Wikipedia. 
+ 
+Wikipedia 2010a. Why create an account? Wikipedia. 
+36Journal of Public Deliberation, Vol. 6 [2010], Iss. 2, Art. 4
+https://www.publicdeliberation.net/jpd/vol6/iss2/art4
