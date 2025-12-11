@@ -11,7 +11,7 @@ This section presents the outcomes of the bias detection and Talk page tone anal
 Sentiment analysis showed that discussions typically remained neutral, with only slight negative comments detected.
 
 % Aggregate results (automatically generated)
-The automated talk-page analysis produced per-topic summaries (counts and label distributions); the full machine-readable results are available in \texttt{paper/article\_comparisons\_results.json} and per-subset JSON files in the same directory. Representative comparison figures were saved to \texttt{figures/article\_comparisons\_default.png} (and other subset-specific PNGs).
+The automated talk-page analysis produced per-topic summaries (counts and label distributions); the full machine-readable results are available in \path{paper/article_comparisons_results.json} and per-subset JSON files in the same directory. Representative comparison figures were saved to \path{figures/article\_comparisons\_default.png} (and other subset-specific PNGs).
 
 Table~\ref{tab:talk-summary} summarizes the default subset (topics used in the main analysis). Percentages are relative to the number of comments extracted per talk page.
 \begin{table}[h]
@@ -39,7 +39,7 @@ These automated summaries show that the majority of extracted comments were labe
 Notes and limitations: the counts reflect the subset of comments the script could extract (see the JSON files for exact counts), the sentiment model is a general-purpose classifier and may under- or over-count valenced language in politically charged discussions, and toxicity estimates are coarse (``Low/Medium/High'') based on classifier score thresholds. We treat these results as descriptive and exploratory; interpretation and causal claims are deferred to the Discussion.
 
 \subsection{Subset summaries}
-The analysis also produced subset-specific summaries (``political'', ``social'', and ``extremes'') whose JSON outputs are available as \texttt{paper/article\_comparisons\_results.political.json}, \texttt{paper/article\_comparisons\_results.social.json}, and \texttt{paper/article\_comparisons\_results.extremes.json}. In brief:
+The analysis also produced subset-specific summaries (``political'', ``social'', and ``extremes'') whose JSON outputs are available as \path{paper/article\_comparisons\_results.political.json}, \path{paper/article\_comparisons\_results.social.json}, and \path{paper/article\_comparisons\_results.extremes.json}. In brief:
 \begin{itemize}
 	\item Political subset (Donald Trump, British National Party, Capitalism): distributions remain dominated by Neutral labels; Capitalism contributed the largest comment sample (77 comments) and therefore drives the aggregated counts.
 	\item Social subset (Feminism, Gentrification, Atheism): small sample sizes (2--4 comments per topic) but similarly high proportions of Neutral labels in the extracted comments.

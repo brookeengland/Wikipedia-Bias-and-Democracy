@@ -4,17 +4,80 @@
 \label{sec:discussion}
 
 \subsection{Interpretation of Results}
+The sentiment and toxicity analyses show that most Wikipedia Talk
+page discussions in our dataset were labeled as Neutral, even for
+topics that are commonly viewed as political or controversial. This
+suggests that editors generally communicate in a measured way and
+follow Wikipedia’s expectations for civil discussion. Toxicity levels
+were also consistently low, which further supports the idea that the
+platform’s community guidelines help shape constructive dialogue.
 
-The findings indicate that Wikipedia’s openness allows for self-correction of bias over time but does not fully prevent power concentration. The results support the hypothesis that diversity of participation correlates with higher neutrality, consistent with deliberative democratic theory~\cite{klemp2010deliberation, shi2019value}. However, dominance by experienced editors on contentious topics suggests that governance structures can both enable and constrain democratic participation.
+At the same time, the results vary depending on the number of
+comments available for each topic. Pages with many comments,
+such as \emph{Capitalism}, provide stronger evidence of stable and
+neutral discussion patterns. In contrast, topics with only a few
+comments (for example, \emph{Gentrification} or \emph{Atheism})
+do not offer enough data to draw firm conclusions. In these cases,
+high neutrality percentages may simply reflect limited participation
+rather than the presence of consensus.
+
+Overall, our findings suggest that while the tone of Talk page
+discussions tends to be neutral, this does not automatically mean
+that the underlying decision-making processes are broad or
+representative.
 
 \subsection{Implications}
+These findings have two main implications for understanding 
+Wikipedia as a collaborative platform. First, the neutral tone of
+discussions suggests that Wikipedia’s policies, such as assuming
+good faith and working toward consensus, appear to influence how
+editors interact. This is encouraging for the quality of article
+content, as constructive discussion is often linked to more accurate
+and balanced writing.
 
-This research contributes to understanding how large-scale online collaboration can balance democratic ideals with the need for content reliability. For Wikipedia, these findings underscore the importance of policies and tools that promote inclusive participation. For the broader field of digital democracy, this study illustrates how algorithmic and governance mechanisms interact to shape knowledge production.
+Second, however, neutrality in tone does not guarantee democratic
+participation. Several Talk pages were shaped by only a few editors,
+which means that decision-making may still be concentrated among
+a small group. This aligns with existing research showing that
+online communities can develop informal hierarchies over time.
+Therefore, it is important to think about both \emph{how} editors
+communicate and \emph{who} participates when evaluating Wikipedia’s
+governance.
+
+For broader digital platforms, these patterns highlight the challenge
+of supporting both civil communication and inclusive participation.
+A platform may succeed at encouraging respectful dialogue but still
+struggle to involve a diverse group of contributors.
 
 \subsection{Limitations}
+This study has several limitations. The number of comments varied
+greatly from topic to topic, which affects how much we can infer
+from each case. Some pages had only two or three comments, while
+others had dozens. The sentiment and toxicity models we used are
+also general-purpose tools, which means they might miss subtleties
+in Wikipedia conversations, such as sarcasm or complex arguments.
 
-Limitations include the scope of analyzed topics, the reliance on automated sentiment and toxicity models (which may misclassify nuanced statements), and the focus on English-language Wikipedia only. Future iterations should expand to multilingual datasets and incorporate deeper qualitative analysis of deliberative exchanges.
+Additionally, our analysis focused only on English-language
+Wikipedia and a limited set of topics. Other language communities
+may have different norms, participation patterns, or conflict
+dynamics. Finally, while we measured the number of contributors,
+we did not study their roles or influence in detail. A deeper analysis
+of editor networks would help clarify how decisions are made.
 
 \subsection{Future Work}
+Future work could expand both the methods and the scope of this
+study. More advanced language models could help capture context
+and detect subtle forms of bias more reliably. Another useful
+direction would be a temporal analysis that follows discussions over
+time to see how tone or toxicity shifts during major events or
+controversies.
 
-Future work will refine the bias detection model using transformer-based language models (e.g., BERT or RoBERTa) to improve contextual understanding of bias. Additionally, temporal analysis of participation networks could reveal how editor turnover affects consensus stability. Expanding the dataset to include different language Wikipedias could further illuminate cultural variations in governance and neutrality.
+Additional research could also examine how editors interact with
+one another by mapping participation networks, which would help
+reveal whether certain contributors consistently guide discussions.
+Comparing different language Wikipedias would provide insight into
+how culture and community norms shape governance. Finally,
+connecting Talk page discussions directly to changes in article
+content would show more clearly how deliberation influences
+Wikipedia’s final output.
+
