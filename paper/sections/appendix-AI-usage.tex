@@ -4,27 +4,94 @@
 
 \subsection{Literature Review}
 
-[Describe how you used AI agents for literature review. Reference your .prompt.md file.]
+We used Claude (Anthropic) to assist with organizing and synthesizing the initial literature review. The AI helped identify thematic groupings across multiple research papers on Wikipedia governance, bias detection, and online deliberation. Specifically, we provided Claude with paper titles, abstracts, and key excerpts, then asked it to:
 
-Example: We used an AI agent workflow (see the file \href{}{literature-review.prompt.md}) to systematically process research papers. The agent extracted summaries, methodology descriptions, and key findings from papers in our bibliography.
+\begin{itemize}
+    \item Identify recurring themes and concepts across the literature
+    \item Suggest organizational structures for the Related Work section
+    \item Generate preliminary summaries of research methodologies and findings
+\end{itemize}
+
+All AI-generated summaries were subsequently verified by reading the complete original papers. The final Related Work section (Section 2) was written entirely by the human authors after reviewing primary sources. AI assistance served only as an organizational scaffold for understanding the research landscape.
 
 \subsection{Data Analysis}
 
-[If you used AI for data analysis, code generation, or statistical work, document it here]
+We employed two pre-trained transformer-based machine learning models to analyze Wikipedia Talk page comments:
+
+\begin{itemize}
+    \item \textbf{Sentiment Analysis:} The TabularisAI multilingual sentiment classification model categorized each comment as Positive, Neutral, or Negative. This provided a proxy measure for deliberative tone.
+    
+    \item \textbf{Toxicity Detection:} The Unitary Toxic-BERT model assigned toxicity levels (Low, Medium, High) to assess the presence of harmful or adversarial discourse.
+\end{itemize}
+
+These models were applied programmatically through our Python analysis pipeline without manual intervention in the classification process. Model outputs were treated as quantitative indicators rather than ground truth, and all interpretations of model results were conducted by the human authors.
+
+Additionally, we used Claude to assist with debugging data processing scripts, particularly for:
+\begin{itemize}
+    \item Troubleshooting regular expression patterns for comment extraction
+    \item Optimizing JSON data structure for cross-topic comparisons
+    \item Identifying edge cases in timestamp parsing
+\end{itemize}
 
 \subsection{Writing Assistance}
 
-[Document any AI assistance in writing: brainstorming, editing, restructuring, etc.]
+Claude was used to improve clarity, concision, and flow in several sections of this paper:
 
-Example: We used Claude/ChatGPT to help with [specific task, e.g., "improving clarity of the abstract" or "suggesting visualizations for our data"].
+\begin{itemize}
+    \item \textbf{Abstract:} AI suggested more concise phrasing for research contributions while preserving technical accuracy
+    \item \textbf{Methodology:} AI helped reformulate complex technical descriptions for better readability
+    \item \textbf{Discussion:} AI identified areas where transitions between paragraphs could be strengthened
+\end{itemize}
+
+All substantive arguments, interpretations, and research conclusions were developed entirely by the human authors. AI suggestions were selectively incorporated only when they improved readability without altering meaning or introducing unsupported claims.
 
 \subsection{Code Development}
 
-[If AI helped you write code for data collection or analysis, document it]
+AI assistance (Claude) was used extensively in developing the data collection and analysis pipeline:
+
+\begin{itemize}
+    \item Generating boilerplate code for Wikipedia API queries using the \texttt{action=query} and \texttt{prop=revisions} endpoints
+    \item Writing regular expressions to extract user comments based on Wikipedia signature format
+    \item Debugging preprocessing functions for cleaning markup and templates
+    \item Structuring comparative visualization code using matplotlib
+    \item Creating the multi-topic analysis framework that generates per-topic JSON outputs
+\end{itemize}
+
+All AI-generated code was reviewed line-by-line, tested on sample data, and modified by the human authors before being applied to the full dataset. The final implementation is available in our GitHub repository (\url{https://github.com/brookeengland/Wikipedia-Bias-and-Democracy}) with full documentation.
 
 \subsection{Verification}
 
-[How did you verify AI-generated content? What human oversight did you apply?]
+We implemented rigorous verification procedures for all AI-assisted content:
 
-All AI-generated content was reviewed, verified against primary sources, and edited by the human author(s). Factual claims were cross-checked with original papers and data.
+\begin{enumerate}
+    \item \textbf{Literature claims:} Every factual statement about prior research was verified against the original papers. All citations were checked for accuracy, and direct quotations were confirmed word-for-word.
+    
+    \item \textbf{Technical descriptions:} All methodology descriptions were cross-referenced with official model documentation (TabularisAI, Toxic-BERT) and Wikipedia API specifications.
+    
+    \item \textbf{Code validation:} All scripts were manually reviewed for logical correctness and tested on sample data before being applied to the full dataset. Output distributions were sanity-checked against expected ranges.
+    
+    \item \textbf{Data interpretation:} The Results and Discussion sections were written entirely by human authors without AI generation. All interpretations were grounded in the observed data and supported by prior literature.
+    
+    \item \textbf{Reproducibility:} All code and data processing steps were documented in the GitHub repository to ensure independent verification of our findings.
+\end{enumerate}
 
+\subsection{Limitations of AI Assistance}
+
+For transparency, we explicitly note that AI tools were \textbf{not} used for:
+
+\begin{itemize}
+    \item Formulating the research questions or hypotheses
+    \item Designing the overall study methodology or analytical framework
+    \item Selecting which topics to analyze or which proxies to measure
+    \item Interpreting statistical results or drawing conclusions
+    \item Making editorial decisions about which findings to emphasize
+    \item Generating novel theoretical insights or arguments
+\end{itemize}
+
+All core intellectual contributions—including research design, proxy selection, model interpretation, and synthesis of findings—originated with and were validated by the human authors.
+
+\subsection{Ethical Reflection}
+
+We acknowledge that the use of AI in academic research raises important questions about authorship, originality, and intellectual rigor. Our approach prioritizes transparency through comprehensive documentation of all AI usage. We maintain that human judgment and domain expertise remain central to the research process, with AI tools serving as assistants rather than autonomous agents.
+
+By documenting the specific ways AI contributed to this work, we enable readers to evaluate the role of automation in our findings and to distinguish between computational processing, AI-assisted editing, and human interpretation. This transparency is essential for maintaining academic integrity while responsibly leveraging emerging technologies.
